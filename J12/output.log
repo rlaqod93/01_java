@@ -1,0 +1,1598 @@
+2022-02-18 09:19:44,069 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ====================
+2022-02-18 09:19:44,072 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:19:44,072 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ====================
+2022-02-18 09:24:58,391 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ====================
+2022-02-18 09:24:58,392 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:24:58,392 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ====================
+2022-02-18 09:25:22,258 DEBUG [main] string.StringEx01 (StringEx01.java:9)     - ====================
+2022-02-18 09:25:22,260 DEBUG [main] string.StringEx01 (StringEx01.java:10)     - =log4j=
+2022-02-18 09:25:22,260 DEBUG [main] string.StringEx01 (StringEx01.java:11)     - ====================
+2022-02-18 09:25:22,260 DEBUG [main] string.StringEx01 (StringEx01.java:16)     - 5
+2022-02-18 09:25:37,823 DEBUG [main] string.StringEx01 (StringEx01.java:16)     - index : 5
+2022-02-18 09:26:32,174 DEBUG [main] string.StringEx01 (StringEx01.java:17)     - index : 5
+2022-02-18 09:27:20,550 DEBUG [main] string.StringEx01 (StringEx01.java:17)     - index : 5
+2022-02-18 09:27:20,552 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:27:33,632 DEBUG [main] string.StringEx01 (StringEx01.java:17)     - index : 3
+2022-02-18 09:27:33,634 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 6
+2022-02-18 09:29:01,724 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:29:01,726 DEBUG [main] string.StringEx01 (StringEx01.java:24)     - Hello
+2022-02-18 09:29:26,212 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:29:26,214 DEBUG [main] string.StringEx01 (StringEx01.java:24)     - .java
+2022-02-18 09:29:39,897 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:29:39,899 DEBUG [main] string.StringEx01 (StringEx01.java:24)     - java
+2022-02-18 09:30:51,576 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:30:51,577 DEBUG [main] string.StringEx01 (StringEx01.java:26)     - ext : java
+2022-02-18 09:32:40,613 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:32:40,615 DEBUG [main] string.StringEx01 (StringEx01.java:26)     - ext : java
+2022-02-18 09:32:40,615 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - filename : Hello
+2022-02-18 09:32:47,329 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:32:47,330 DEBUG [main] string.StringEx01 (StringEx01.java:26)     - ext : java
+2022-02-18 09:32:47,330 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - filename : Hello
+2022-02-18 09:34:52,395 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:34:52,397 DEBUG [main] string.StringEx01 (StringEx01.java:26)     - ext : java
+2022-02-18 09:34:52,397 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - filename : Hello
+2022-02-18 09:34:52,397 DEBUG [main] string.StringEx01 (StringEx01.java:33)     - ===============================
+2022-02-18 09:34:52,397 DEBUG [main] string.StringEx01 (StringEx01.java:37)     - GoodMorning.java
+2022-02-18 09:35:01,773 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:35:01,775 DEBUG [main] string.StringEx01 (StringEx01.java:26)     - ext : java
+2022-02-18 09:35:01,775 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - filename : Hello
+2022-02-18 09:35:01,775 DEBUG [main] string.StringEx01 (StringEx01.java:33)     - =====================
+2022-02-18 09:35:01,775 DEBUG [main] string.StringEx01 (StringEx01.java:37)     - GoodMorning.java
+2022-02-18 09:36:06,505 DEBUG [main] string.StringEx01 (StringEx01.java:20)     - index : 5
+2022-02-18 09:36:06,507 DEBUG [main] string.StringEx01 (StringEx01.java:26)     - ext : java
+2022-02-18 09:36:06,507 DEBUG [main] string.StringEx01 (StringEx01.java:32)     - filename : Hello
+2022-02-18 09:36:06,507 DEBUG [main] string.StringEx01 (StringEx01.java:33)     - =====================
+2022-02-18 09:36:06,507 DEBUG [main] string.StringEx01 (StringEx01.java:37)     - Herro.java
+2022-02-18 10:06:59,749 DEBUG [main] string.StringEncoding (StringEncoding.java:13)     - UTF-8 bArr : [-22, -80, -128]
+2022-02-18 10:08:00,447 DEBUG [main] string.StringEncoding (StringEncoding.java:13)     - UTF-8 bArr : [-22, -80, -128]
+2022-02-18 10:08:00,448 DEBUG [main] string.StringEncoding (StringEncoding.java:15)     - ê°€
+2022-02-18 10:08:17,043 DEBUG [main] string.StringEncoding (StringEncoding.java:13)     - UTF-8 bArr : [-22, -80, -128]
+2022-02-18 10:08:17,045 DEBUG [main] string.StringEncoding (StringEncoding.java:15)     - UTF-8 : ê°€
+2022-02-18 10:10:09,184 DEBUG [main] string.StringEncoding (StringEncoding.java:15)     - UTF-8 bArr : [-22, -80, -128]
+2022-02-18 10:10:09,187 DEBUG [main] string.StringEncoding (StringEncoding.java:18)     - UTF-8 : ê°€
+2022-02-18 10:10:09,187 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - CP949 : [-80, -95]
+2022-02-18 10:10:56,141 DEBUG [main] string.StringEncoding (StringEncoding.java:15)     - UTF-8 bArr : [-22, -80, -128]
+2022-02-18 10:10:56,143 DEBUG [main] string.StringEncoding (StringEncoding.java:16)     - CP949 bArrMS : [-80, -95]
+2022-02-18 10:10:56,143 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 : ê°€
+2022-02-18 10:10:56,143 DEBUG [main] string.StringEncoding (StringEncoding.java:20)     - CP949 : ï¿½ï¿½
+2022-02-18 10:11:08,629 DEBUG [main] string.StringEncoding (StringEncoding.java:15)     - UTF-8 bArr : [-22, -80, -128]
+2022-02-18 10:11:08,630 DEBUG [main] string.StringEncoding (StringEncoding.java:16)     - CP949 bArrMS : [-80, -95]
+2022-02-18 10:11:08,631 DEBUG [main] string.StringEncoding (StringEncoding.java:19)     - UTF-8 : ê°€
+2022-02-18 10:11:08,631 DEBUG [main] string.StringEncoding (StringEncoding.java:20)     - CP949 : ê°€
+2022-02-18 10:29:10,270 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:10)     - numStr : 100
+2022-02-18 10:29:10,272 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:12)     - 1001
+2022-02-18 10:29:26,379 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:10)     - numStr : 100
+2022-02-18 10:29:26,381 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:12)     - 101
+2022-02-18 10:30:19,869 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:10)     - numStr : 100
+2022-02-18 10:30:19,871 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:13)     - 101
+2022-02-18 10:30:19,871 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 101
+2022-02-18 10:30:32,053 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:10)     - numStr : 100
+2022-02-18 10:30:32,055 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:13)     - 1001
+2022-02-18 10:30:32,055 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 101
+2022-02-18 10:30:32,055 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:15)     - 101
+2022-02-18 10:31:06,301 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:11)     - numStr : 100
+2022-02-18 10:31:06,303 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 1001
+2022-02-18 10:31:06,303 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:15)     - 101
+2022-02-18 10:31:06,303 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:16)     - 101
+2022-02-18 10:32:16,354 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:11)     - numStr : 100
+2022-02-18 10:32:16,358 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 1001
+2022-02-18 10:32:16,358 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:15)     - 101
+2022-02-18 10:32:16,358 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:16)     - 101
+2022-02-18 10:32:16,359 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:20)     - 200.1
+2022-02-18 10:32:47,226 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:11)     - numStr : 100
+2022-02-18 10:32:47,228 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:14)     - 1001
+2022-02-18 10:32:47,228 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:15)     - 101
+2022-02-18 10:32:47,228 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:16)     - 101
+2022-02-18 10:32:47,229 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:21)     - 201.1
+2022-02-18 10:32:47,230 DEBUG [main] string.StringValueOfMain (StringValueOfMain.java:22)     - 201.1
+2022-02-18 10:48:58,949 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:14)     - 100
+2022-02-18 10:49:06,931 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:14)     - 100
+2022-02-18 11:08:47,915 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:14)     - myValue : 100
+2022-02-18 11:08:47,917 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:18)     - num01 : 100
+2022-02-18 11:09:32,463 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:14)     - myValue : 100
+2022-02-18 11:09:32,465 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:18)     - num01 : 101
+2022-02-18 11:10:05,454 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:14)     - myValue : 100
+2022-02-18 11:10:05,456 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:15)     - 101
+2022-02-18 11:10:05,456 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:19)     - num01 : 101
+2022-02-18 11:10:41,034 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:14)     - myValue : 100
+2022-02-18 11:10:41,036 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:18)     - num01 : 101
+2022-02-18 11:11:31,520 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:14)     - myValue : 100
+2022-02-18 11:11:31,521 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:18)     - num01 : 101
+2022-02-18 11:13:28,328 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:13)     - myValue : 100
+2022-02-18 11:13:28,329 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:17)     - num01 : 101
+2022-02-18 11:23:39,426 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:13)     - myValue : 100
+2022-02-18 11:23:39,428 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:17)     - num01 : 101
+2022-02-18 11:23:49,449 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:13)     - myValue : 100
+2022-02-18 11:23:49,450 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:17)     - num01 : 101
+2022-02-18 11:24:13,472 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:13)     - myValue : 100
+2022-02-18 11:24:13,473 DEBUG [main] wrapper.WrapperEx01Main (WrapperEx01Main.java:17)     - num01 : 101
+2022-02-18 11:32:52,097 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:41:44,378 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:41:44,380 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 200
+2022-02-18 11:41:55,940 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:41:55,942 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:43:10,278 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:43:10,279 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:43:10,279 DEBUG [main] string.LoggerManager (StringBuilderMain.java:18)     - 34
+2022-02-18 11:43:42,347 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:43:42,348 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:43:42,348 DEBUG [main] string.LoggerManager (StringBuilderMain.java:18)     - 34
+2022-02-18 11:43:42,348 DEBUG [main] string.LoggerManager (StringBuilderMain.java:20)     - 01_java02_oracle03_html
+2022-02-18 11:44:35,294 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:44:35,295 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:44:35,296 DEBUG [main] string.LoggerManager (StringBuilderMain.java:18)     - 34
+2022-02-18 11:44:35,296 DEBUG [main] string.LoggerManager (StringBuilderMain.java:20)     - 01_java 
+02_oracle 
+03_html
+2022-02-18 11:44:45,630 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:44:45,631 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:44:45,631 DEBUG [main] string.LoggerManager (StringBuilderMain.java:18)     - 34
+2022-02-18 11:44:45,631 DEBUG [main] string.LoggerManager (StringBuilderMain.java:20)     - 01_java 
+02_oracle 
+03_html 
+
+2022-02-18 11:45:26,896 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:45:26,897 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:45:26,897 DEBUG [main] string.LoggerManager (StringBuilderMain.java:18)     - 34
+2022-02-18 11:45:26,898 DEBUG [main] string.LoggerManager (StringBuilderMain.java:20)     - 01_java 
+02_oracle 
+03_html 
+
+2022-02-18 11:45:41,875 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:45:41,876 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:45:41,877 DEBUG [main] string.LoggerManager (StringBuilderMain.java:18)     - 70
+2022-02-18 11:45:41,877 DEBUG [main] string.LoggerManager (StringBuilderMain.java:20)     - 01_java    
+02_oracle   
+03_html    
+
+2022-02-18 11:47:12,203 DEBUG [main] string.LoggerManager (StringBuilderMain.java:6)     - ====================
+2022-02-18 11:47:12,204 DEBUG [main] string.LoggerManager (StringBuilderMain.java:14)     - 16
+2022-02-18 11:47:12,204 DEBUG [main] string.LoggerManager (StringBuilderMain.java:18)     - 34
+2022-02-18 11:47:12,204 DEBUG [main] string.LoggerManager (StringBuilderMain.java:20)     - 01_java
+02_oracle
+03_html
+
+2022-02-18 14:23:39,486 DEBUG [main] string.LoggerManager (CGCparseMain.java:18)     - ------------------------------------------------------
+2022-02-18 14:23:39,488 DEBUG [main] string.LoggerManager (CGCparseMain.java:19)     - <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko"> 
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <meta http-equiv="Expires" content="-1"> 
+  <meta http-equiv="Pragma" content="no-cache"> 
+  <meta http-equiv="Cache-Control" content="No-Cache"> 
+  <meta http-equiv="imagetoolbar" content="no"> 
+  <meta name="viewport" content="width=1024"> 
+  <meta name="keywords" content="CGV, ½ÃÁöºêÀÌ, ¿µÈ­°ü, ±ØÀå, ¿µÈ­, Æ¼ÄÏ, ¹Ú½º¿ÀÇÇ½º, ±ØÀå, Movie, Theater, Cinema, Cgv, cgv, ¿¹¸Å, »ó¿µÀÛ"> 
+  <meta name="description" content="CGV´Â ¼±ÁøÈ­µÈ °ü¶÷¹®È­¿Í ÃÖ°íÀÇ ¼­ºñ½º·Î °í°´¿¡°Ô ÀØÀ» ¼ö ¾ø´Â °¨µ¿À» ¼±»çÇÕ´Ï´Ù. CGVÈ¨ÆäÀÌÁö¸¦ ÅëÇØ ¿µÈ­ ¿¹¸Å»Ó¸¸ ¾Æ´Ï¶ó ±× ÀÌ»óÀÇ ¼­ºñ½º¿Í °¨µ¿À» Àü´ŞÇÏ°í, ´Ù¾çÇÑ Áñ°Å¿ò°ú Æ¯º°ÇÑ °æÇèÀ» Á¦°øÇÏ°íÀÚ ÇÕ´Ï´Ù."> 
+  <meta property="og:site_name" content="¿µÈ­ ±× ÀÌ»óÀÇ °¨µ¿. CGV"> 
+  <meta id="ctl00_og_title" property="og:title" content="¿µÈ­ ±× ÀÌ»óÀÇ °¨µ¿. CGV"> 
+  <meta id="ctl00_og_image" property="og:image" content="https://img.cgv.co.kr/WebApp/images/common/logo_new_kakao_prevw.png"> 
+  <link rel="alternate" href="http://m.cgv.co.kr"> 
+  <link rel="shortcut icon" href="https://img.cgv.co.kr/theater_img/favicon.ico" type="image/x-icon"> 
+  <title id="ctl00_headerTitle"></title> 
+  <link rel="shortcut icon" type="image/x-icon" href="https://img.cgv.co.kr/R2014/images/favicon.ico"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/webfont.css"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/reset.css"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/layout.css"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/module.css?20211209"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/content.css"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/common.css"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/eggupdate.css"> 
+  <link rel="stylesheet" media="print" type="text/css" href="https://img.cgv.co.kr/R2014/css/print.css"> 
+  <link rel="stylesheet" type="text/css" href="https://img.cgv.co.kr/R2014/js/jquery.ui/smoothness/jquery-ui-1.10.4.custom.min.css"> 
+  <script type="text/javascript" src="/common/js/extraTheaters.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/app.config.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery-1.10.2.min.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.plugin/jquery.tmpl.min.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.plugin/jquery.validate.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.plugin/jquery.paging.min.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.ui/jquery-ui-1.10.4.custom.min.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.utils.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/app.utils.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.utils.pageing.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/app.init.js"></script> <!--[if lte IE 9]><script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.plugin/jquery.placeholder.js"></script><![endif]--> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/jquery.plugin/jquery.dotdotdot.min.js"></script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/silverlight_link.js"></script> 
+  <script src="https://img.cgv.co.kr/R2014/js/slick/slick.js" type="text/javascript" charset="utf-8"></script> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/phototicket/phototicket.css"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/slick.css"> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/slick-theme-custom.css"> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014/js/icheck/login.timer.js"></script> 
+  <script src="https://img.cgv.co.kr/R2014/js/icheck/icheck.min.js" type="text/javascript" charset="utf-8"></script> 
+  <link rel="stylesheet" type="text/css" href="https://img.cgv.co.kr/R2014/js/icheck/iCheck.css"> <!-- 2020.05.07 °¨Á¤Áö¼ö/ÇÁ¸®¿¡±× ÇÁ·ÎÁ§Æ® Ãß°¡ --> 
+  <link rel="stylesheet" media="all" type="text/css" href="https://img.cgv.co.kr/R2014/css/preegg.css"> <!-- °¢ÆäÀÌÁö Header Start--> <!--/°¢ÆäÀÌÁö Header End--> 
+  <script type="text/javascript">
+        //<![CDATA[
+        _TRK_CP = "/È¨";
+
+        app.config('staticDomain', 'https://img.cgv.co.kr/R2014/')
+            .config('imageDomain', 'https://img.cgv.co.kr')
+            .config('isLogin', 'False');
+
+        
+        // AD FLOAT
+        // ¾ÏÈ£È­ ÇÒ ¹®ÀÚ¿­°ú Å°°ª(»ó¼ö°ª)À» ¸Å°³º¯¼ö·Î ¹Ş´Â´Ù.
+        function EncryptAD(str, key) {
+            output = new String;
+            Temp = new Array();
+            TextSize = str.length;
+            for (i = 0; i < TextSize; i++) {
+                // key °ªÀ» ¿øÇÏ´Â ´ë·Î ¿¬»êÀ» ÇÑ´Ù
+                output += String.fromCharCode(str.charCodeAt(i) + parseInt(key) + 123 + i);
+            }
+            return output;
+        }
+        // º¹È£È­
+        // ¾ÏÈ£È­ µÈ ¹®ÀÚ¿­°ú Å°°ª(»ó¼ö°ª)À» ¸Å°³º¯¼ö·Î ¹Ş´Â´Ù.
+        function DecryptAD(str, key) {
+            output = new String;
+            Temp = new Array();
+            TextSize = str.length;
+            for (i = 0; i < TextSize; i++) {
+                // ¾ÏÈ£È­½Ã »ç¿ëÇÑ ¿¬»ê°ú °°¾Æ¾ß ÇÑ´Ù.
+                output += String.fromCharCode(str.charCodeAt(i) - (parseInt(key) + 123 + i));
+            }
+
+            return output;
+        }
+
+        function getCookieVal(offset) {
+            var endstr = document.cookie.indexOf(";", offset);
+            if (endstr == -1) endstr = document.cookie.length;
+            return unescape(document.cookie.substring(offset, endstr));
+        }
+        function GetCookieAd(name) {
+            var arg = name + "=";
+            var alen = arg.length;
+            var clen = document.cookie.length;
+            var i = 0;
+            while (i < clen) { //while open
+                var j = i + alen;
+                if (document.cookie.substring(i, j) == arg)
+                    return getCookieVal(j);
+                i = document.cookie.indexOf(" ", i) + 1;
+                if (i == 0) break;
+            } //while close
+            return null;
+        }
+        function setCookieAD(name, value, expiredays) {
+            var todayDate = new Date();
+            todayDate.setTime(todayDate.getTime() + (expiredays * 24 * 60 * 60 * 1000));
+            document.cookie = name + "=" + escape(value) + "; expires=" + todayDate.toGMTString() + "; path=/; domain=cgv.co.kr";
+        }
+        function CloseAD() {
+            var AdUrl = window.location.href;
+            var ArrAdUrl = AdUrl.split("/");
+
+            var CurCookieName = 'CgvPopAd-' + ArrAdUrl[3];
+            var CurCookieUrl = GetCookieAd(CurCookieName);
+            var CookieUrl = ArrAdUrl[3];
+
+            CookieUrl = EncryptAD(CookieUrl, "15442280");
+            setCookieAD(CurCookieName, CookieUrl, '1');
+            $(document).find('#ad_float1').hide();
+        }
+        function OpenAD() {
+            var AdUrl = window.location.href;
+            var ArrAdUrl = AdUrl.split("/");
+            var CookieUrl = ArrAdUrl[3];
+            var CurCookieName = 'CgvPopAd-' + ArrAdUrl[3];
+            var CurCookieUrl = GetCookieAd(CurCookieName);
+
+            if (CurCookieUrl == null) {
+                CurCookieUrl = "";
+            }
+            else {
+                CurCookieUrl = DecryptAD(CurCookieUrl, "15442280");
+            }
+
+            if (CurCookieUrl.indexOf(CookieUrl) != -1) {
+                $(document).find('#ad_float1').hide();
+            }
+
+            //section.cgv.co.kr ¸Å°ÅÁø Ã¼Å©
+            var magazineckurl = GetCookieAd("CgvPopAd-magazine");
+            if (magazineckurl != null) {
+                var magazineck = DecryptAD(magazineckurl, "15442280");
+                if (magazineck != null && magazineck == "magazine") {
+                    //°ªÀÌÀÖ´Â°æ¿ì Ç¥½ÃÇÏÁö¾ÊÀ½
+                    $(document).find('#ad_float1').hide();
+                }
+            }
+        }
+
+        
+
+        //]]>
+    </script> 
+ </head> 
+ <body class=""> 
+  <div class="skipnaiv"> <a href="#contents" id="skipHeader">¸ŞÀÎ ÄÁÅÙÃ÷ ¹Ù·Î°¡±â</a> 
+  </div> 
+  <div id="cgvwrap"> 
+   <div class="cgv-ad-wrap" id="cgv_main_ad"> 
+    <div id="TopBarWrapper" class="sect-head-ad"> 
+     <div class="top_extend_ad_wrap"> 
+      <div class="adreduce" id="adReduce"> <iframe src="//ad.cgv.co.kr/NetInsight/html/CGV/CGV_201401/sub@TopBar_EX" width="100%" height="80" title="" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" name="TopBanner" id="TopBanner"></iframe> 
+      </div> 
+      <div class="adextend" id="adExtend"></div> 
+     </div><!-- //.top_extend_ad_wrap --> 
+    </div> 
+   </div> <!-- S Header
+        Description
+        - class 'nav' ¿¡ class 'active' Ãß°¡½Ã ¼­ºê¸Ş´º³ëÃâ
+        - class 'nav' ¿¡ class 'fixed' Ãß°¡½Ã »ó´Ü°íÁ¤µÇ¸ç ½ºÅ¸ÀÏ º¯°æµÊ
+     --> 
+   <div class="header"> <!-- ¼­ºñ½º ¸Ş´º --> 
+    <div class="header_content"> 
+     <div class="contents"> 
+      <h1 onclick=""><a href="/"><img src="https://img.cgv.co.kr/R2014/images/common/logo/logoRed.png" alt="CGV"></a><span>CULTUREPLEX</span></h1> 
+      <ul class="memberInfo_wrap"> <!-- Advertisement --> 
+       <div class="ad-partner"> <a href="http://www.cgv.co.kr/culture-event/event/detailViewUnited.aspx?seq=31426&amp;menu=006"> <img src="https://img.cgv.co.kr/WingBanner/2022/0110/16417749747880.png" alt="Çö´ëMÆ÷ÀÎÆ®"> </a> 
+       </div> <!-- /Advertisement --> 
+       <li><a href="/user/login/?returnURL=http%3a%2f%2fwww.cgv.co.kr%2fmovies%2fdefault.aspx%3flt%3d1%26ft%3d0"><img src="https://img.cgv.co.kr/R2014/images/common/ico/loginPassword.png" alt="·Î±×ÀÎ"><span>·Î±×ÀÎ</span></a></li> 
+       <li><a href="/user/join/"><img src="https://img.cgv.co.kr/R2014/images/common/ico/loginJoin.png" alt="È¸¿ø°¡ÀÔ"><span>È¸¿ø°¡ÀÔ</span></a></li> 
+       <li><a href="/user/mycgv/"><img src="https://img.cgv.co.kr/R2014/images/common/ico/loginMember.png" alt="MY CGV"><span>MY CGV</span></a></li> 
+       <li><a href="/support/default.aspx"><img src="https://img.cgv.co.kr/R2014/images/common/ico/loginCustomer.png" alt="°í°´¼¾ÅÍ"><span>°í°´¼¾ÅÍ</span></a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <script>
+    //TopMenu ¿µ¿ª LOG
+    //»¡°­ CGVÅ¬¸¯
+    $('.header_content > .contents > h1 > a').on({
+        click: function (e) {
+            gaEventLog('PC_GNB', 'È¨', '');
+        }
+    });
+    //¼­ºñ½º ¸Ş´º
+    $('.header_content > .contents > ul > li > a').on({
+        click: function (e) {
+            gaEventLog('PC_GNB', '¼­ºñ½º¸Ş´º_'+this.text, '');
+        }
+    });
+
+</script> <!-- ¼­ºñ½º ¸Ş´º --> <!-- ¼­ºê ¸Ş´º --> 
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('.nav_menu > li > h2 > a').on({
+            mouseenter: function (e) {
+                var target = e.target;
+                $(target).parents('.nav_menu').find('.nav_overMenu').slideDown(function () {
+                    $('.nav').addClass('active');
+                });
+            },
+            click: function (e) {
+                var target = e.target;
+                if (!$('.nav').hasClass('active')) {
+                    $(this).trigger('mouseenter');
+                } else {
+                    $('.nav').trigger('mouseleave');
+                }
+            }
+        });
+
+        /********************************************************
+        //¼­ºê¸Ş´º ±¸±Û GA Analytics ·Î±× Ã³¸® - 2022.01.12 myilsan
+        ********************************************************/
+        //cgvÈ­ÀÌÆ® ¸Ş´ºÅ¬¸¯
+        $('.nav > .contents > h1 > a').on({
+             click: function (e) {
+                 gaEventLog('PC_GNB', 'È¨', '');
+            }
+        });
+
+        //ÁÖ¸Ş´º Å¬¸¯
+        $('.nav_menu > li > h2 > a').on({
+            click: function (e) {
+                gaEventLog('PC_GNB', 'ÁÖ¸Ş´º_' + this.text, '');
+            }
+        });
+
+        //ÁÖ¸Ş´º ÇÏÀ§¸Ş´º Å¬¸¯
+        $('.nav_overMenu > dd > h3 > a').on({
+            click: function (e) {
+                var target = e.target;
+                var parText = $(target).parents('.nav_overMenu').find('dt')[0].innerText;
+                gaEventLog('PC_GNB', parText + '_' + this.text, '');
+            }
+        });
+
+        //ÇÏÀ§¸Ş´º ÃÖ»óÀ§ Å¬¸¯
+        $(".nav_overMenu > dt > h2 > a").on({
+            click: function (e) {
+                gaEventLog('PC_GNB',this.text + '_' + this.text, '');
+            }
+        });
+
+        //------------------end----------------------- [@,.o]>
+
+        $('.nav').on({
+            mouseleave: function (e) {
+                $(this).find('.nav_overMenu').slideUp(200, function () {
+                    $('.nav').removeClass('active');
+                });
+            }
+        });
+
+        $('.totalSearch_wrap input[type=text]').on({
+            focusin: function () {
+                $('.totalSearch_wrap').addClass("active");
+            }
+        });
+
+        $('.btn_totalSearchAutocomplete_close').on({
+            click: function () {
+                $('.totalSearch_wrap').removeClass("active");
+            },
+            focusout: function (e) {
+                //     $('.totalSearch_wrap').removeClass("active");
+
+            }
+        });
+
+        $(this).on({
+            scroll: function (e) {
+                /* S GNB fixed */
+                var headerOffsetT = $('.header').offset().top;
+                var headerOuterH = $('.header').outerHeight(true);
+                var fixedHeaderPosY = headerOffsetT + headerOuterH;
+                var scrollT = $(this).scrollTop();
+                var scrollL = $(this).scrollLeft();
+
+                if (scrollT >= fixedHeaderPosY) {
+                    $('.nav').addClass('fixed');
+                    $('.fixedBtn_wrap').addClass('topBtn');
+                } else {
+                    $('.nav').removeClass('fixed');
+                    $('.fixedBtn_wrap').removeClass('topBtn');
+                }
+
+                /* S > GNB fixed ÁÂ¿ì ½ºÅ©·Ñ
+                Description
+                - GNB°¡ fixed µÇ¾úÀ»¶§ ÁÂ¿ì ½ºÅ©·Ñ µÇ°Ô Ã³¸®
+                */
+                if ($('.nav').hasClass('fixed')) {
+                    $('.nav').css({ 'left': -1 * scrollL })
+                } else {
+                    $('.nav').css({ 'left': 0 })
+                }
+                /* E > GNB fixed ÁÂ¿ì ½ºÅ©·Ñ */
+                /* S GNB fixed */
+            }
+        });
+
+        $('.btn_gotoTop').on({
+            click: function () {
+                $('html, body').stop().animate({
+                    scrollTop: '0'
+                }, 400);
+            }
+        });
+
+        //ÅëÇÕ°Ë»ö »ó´Ü °Ë»ö ¹öÆ°
+        $('#btn_header_search').on('click', function () {
+
+           
+            if ($('#header_ad_keyword').val() != "")
+                goSearch($('#header_ad_keyword'));      //±¤°í
+            else
+                goSearch($('#header_keyword'));
+
+            
+            return false;
+        });
+
+        //ÅëÇÕ°Ë»ö °Ë»ö¾î ÀÔ·ÂÃ¢
+        $('#header_keyword').keyup(function (e) {
+            if (e.keyCode == 13) goSearch($('#header_keyword'));
+        });
+
+         //°Ë»ö ÀÔ·ÂÃ¢ Å¬¸¯ ½Ã ±¤°í°ª reset
+        $('#header_keyword').on('click', function () {
+            $(this).attr('placeholder', '');
+            $('#header_ad_keyword').val('');
+        });
+
+    });
+
+    //ÅëÇÕ°Ë»ö
+    function goSearch($objKeyword) {
+
+        if ($objKeyword.val() == "") {
+            alert("°Ë»ö¾î¸¦ ÀÔ·ÂÇØ ÁÖ¼¼¿ä");
+            $objKeyword.focus();
+            return false;
+        }
+
+        //GA °Ë»ö·Î±×
+        gaEventLog('PC_GNB', '°Ë»ö', $objKeyword.val());
+        location = "/search/?query=" + escape($objKeyword.val());
+    }
+
+   
+
+    //»ó´Ü Å°¿öµå ±¤°í (S)
+    function AdSearchExt(txt, SearchText) {
+        $('#header_keyword').attr('placeholder', txt);
+        $('#header_ad_keyword').val(SearchText);
+    }
+
+    function hdIcoSet(left, sh) { }
+    //»ó´Ü Å°¿öµå ±¤°í (E)
+
+    //»ó´Ü±¤°í´İ±â
+    function hideCgvTopAd() {
+        $(".cgv-ad-wrap").hide();
+        $('#wrap_main_notice').parent('div').css('top', 280);
+    }
+
+    //ºñÁî½ºÇÁ¸µ Å¬¸¯·Î±×
+    function setClickLog(title) {
+        // eval("try{trk_clickTrace('EVT', '" + title + "')}catch(_e){}");
+    }
+
+</script> 
+    <div class="nav"> 
+     <div class="contents"> 
+      <h1><a href="/" tabindex="-1"><img src="https://img.cgv.co.kr/R2014/images/common/logo/logoWhite.png" alt="CGV"></a></h1> 
+      <ul class="nav_menu"> 
+       <li> <h2><a href="/movies/?lt=1&amp;ft=0">¿µÈ­</a></h2> 
+        <dl class="nav_overMenu"> 
+         <dt>
+          <h2><a href="/movies/?lt=1&amp;ft=0" tabindex="-1">¿µÈ­</a></h2>
+         </dt> 
+         <dd>
+          <h3><a href="/movies/?lt=1&amp;ft=0">¹«ºñÂ÷Æ®</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/arthouse/">¾ÆÆ®ÇÏ¿ì½º</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/event/detailViewUnited.aspx?seq=30717">ICECON</a></h3>
+         </dd> 
+        </dl> </li> 
+       <li> <h2><a href="/theaters/">±ØÀå</a></h2> 
+        <dl class="nav_overMenu"> 
+         <dt>
+          <h2><a href="/theaters/" tabindex="-1">±ØÀå</a></h2>
+         </dt> 
+         <dd>
+          <h3><a href="/theaters/">CGV ±ØÀå</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/theaters/special/">Æ¯º°°ü</a></h3>
+         </dd> 
+        </dl> </li> 
+       <li> <h2><a href="/ticket/"><strong>¿¹¸Å</strong></a></h2> 
+        <dl class="nav_overMenu"> 
+         <dt>
+          <h2><a href="/ticket/" tabindex="-1">¿¹¸Å</a></h2>
+         </dt> 
+         <dd>
+          <h3><a href="/ticket/">ºü¸¥¿¹¸Å</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/reserve/show-times/">»ó¿µ½ºÄÉÁÙ</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/ticket/eng/newdefault.aspx">English Ticketing</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/reserve/show-times/eng/">English Schedule</a></h3>
+         </dd> 
+        </dl> </li> 
+       <li> <h2><a href="/culture-event/popcorn-store/">½ºÅä¾î</a></h2> 
+        <dl class="nav_overMenu"> 
+         <dt>
+          <h2><a href="/culture-event/popcorn-store/" tabindex="-1">½ºÅä¾î</a></h2>
+         </dt> 
+         <dd>
+          <h3><a href="/culture-event/popcorn-store/store-category.aspx?CategoryIdx=2">¿µÈ­°ü¶÷±Ç</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/popcorn-store/store-category.aspx?CategoryIdx=3">±âÇÁÆ®Ä«µå</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/popcorn-store/store-category.aspx?CategoryIdx=4">ÄŞº¸</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/popcorn-store/store-category.aspx?CategoryIdx=5">ÆËÄÜ</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/popcorn-store/store-category.aspx?CategoryIdx=6">À½·á</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/popcorn-store/store-category.aspx?CategoryIdx=7">½º³¼</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/popcorn-store/store-category.aspx?CategoryIdx=10">ÇÃ·¹ÀÌÁ¸</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="https://brand.naver.com/cgv" class="arrowR" target="_blank">¾¾³×¼¥</a></h3>
+         </dd> 
+        </dl> </li> 
+       <li> <h2 onclick="gaEventLog('PC_GNB','ÁÖ¸Ş´º_ÀÌº¥Æ®','')"><a href="/culture-event/event/defaultNew.aspx">ÀÌº¥Æ®</a></h2> 
+        <dl class="nav_overMenu"> 
+         <dt>
+          <h2><a href="/culture-event/event/defaultNew.aspx?mCode=001" tabindex="-1">ÀÌº¥Æ®</a></h2>
+         </dt> 
+         <dd>
+          <h3><a href="/culture-event/event/defaultNew.aspx?mCode=001">SPECIAL</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/event/defaultNew.aspx?mCode=004">¿µÈ­/¿¹¸Å</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/event/defaultNew.aspx?mCode=008">¸â¹ö½Ê/CLUB</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/event/defaultNew.aspx?mCode=005">CGV ±ØÀåº°</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/event/defaultNew.aspx?mCode=006">Á¦ÈŞÇÒÀÎ</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/user/mycgv/event/result_list.aspx">´çÃ·ÀÚ ¹ßÇ¥</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/culture-event/event/end-list.aspx">Á¾·áµÈ ÀÌº¥Æ®</a></h3>
+         </dd> 
+        </dl> </li> 
+       <li> <h2 onclick="gaEventLog('PC_GNB','ÁÖ¸Ş´º_ÇØÅÃ','')"><a href="/discount/discountlist.aspx">ÇıÅÃ</a></h2> 
+        <dl class="nav_overMenu"> 
+         <dt>
+          <h2><a href="/discount/discountlist.aspx" tabindex="-1">ÇıÅÃ</a></h2>
+         </dt> 
+         <dd>
+          <h3><a href="/discount/discountlist.aspx">CGV ÇÒÀÎÁ¤º¸</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="https://www.cgv.co.kr/user/memberShip/ClubService.aspx">CLUB ¼­ºñ½º</a></h3>
+         </dd> 
+         <dd>
+          <h3><a href="/user/vip-lounge/">VIP ¶ó¿îÁö</a></h3>
+         </dd> 
+        </dl> </li> 
+      </ul> 
+      <div class="totalSearch_wrap"> <label for="totalSearch"> <input type="text" id="header_keyword" value=""> <input type="hidden" id="header_ad_keyword" name="header_ad_keyword"> </label> <button type="button" class="btn_totalSearch" id="btn_header_search">°Ë»ö</button> <iframe src="//ad.cgv.co.kr/NetInsight/html/CGV/CGV_201401/main@Search_txt" width="0" height="0" title="" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" allowfullscreen mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe> <!--<div class="totalSearchAutocomplete_wrap">
+                <dl class="totalSearchAutocomplete_list">
+                    <dt>¿µÈ­</dt>
+                    <dd><a href="#none"><strong>ÀüÁö</strong>Àû ÀÛ°¡½ÃÁ¡</a></dd>
+                    <dd><a href="#none">³»¾ğ´Ï <strong>ÀüÁö</strong>Çö°ú ³ª</a></dd>
+                    <dd><a href="#none">¼öÈ£<strong>ÀüÁö</strong> ¿µ¿õº»»ö</a></dd>
+                </dl>
+                <dl class="totalSearchAutocomplete_list">
+                    <dt>ÀÎ¹°</dt>
+                    <dd><a href="#none"><strong>ÀüÁö</strong>Çö</a></dd>
+                    <dd><a href="#none"><strong>ÀüÁö</strong>Èñ</a></dd>
+                    <dd><a href="#none">ÀÌ<strong>ÀüÁö</strong></a></dd>
+                </dl>
+                <a href="#none" class="btn_totalSearchAutocomplete_close">´İ±â</a>
+            </div>//--> 
+      </div> 
+     </div> 
+    </div> <!-- ¼­ºê ¸Ş´º --> 
+   </div> <!-- E Header --> <!-- Contaniner --> 
+   <div id="contaniner" class="">
+    <!-- º®µ¹ ¹è°æÀÌ¹ÌÁö »ç¿ë ½Ã class="bg-bricks" Àû¿ë / ¹è°æÀÌ¹ÌÁö°¡ ¾øÀ» °æ¿ì class »èÁ¦  --> <!-- Contents Area --> 
+    <div id="contents" class=""> <!-- Contents Start --> <!-- ½ÇÄÁÅÙÃ÷ ½ÃÀÛ --> 
+     <div class="wrap-movie-chart"> <!-- Heading Map Multi --> 
+      <div class="tit-heading-wrap"> 
+       <h3>¹«ºñÂ÷Æ®</h3> 
+       <div class="submenu"> 
+        <ul> 
+         <li class="on"><a href="/movies/" title="¼±ÅÃ">¹«ºñÂ÷Æ®</a></li> 
+         <li><a href="/movies/pre-movies.aspx">»ó¿µ¿¹Á¤ÀÛ</a></li> <!--<li><a href="/movies/?lt=3">CGV¾ÆÆ®ÇÏ¿ì½º</a></li>//--> 
+        </ul> 
+       </div> 
+      </div> <!-- //Heading Map Multi --> <!-- Sorting --> 
+      <div class="sect-sorting"> 
+       <div class="nowshow"> 
+        <input type="checkbox" id="chk_nowshow"> <label for="chk_nowshow">ÇöÀç »ó¿µÀÛ¸¸ º¸±â</label> 
+       </div> <label for="order_type" class="hidden">Á¤·Ä</label> <select id="order_type" name="order-type"> <option title="ÇöÀç ¼±ÅÃµÊ" selected value="1">¿¹¸ÅÀ²¼ø</option> <option value="2">ÆòÁ¡¼ø</option> <option value="3">°ü¶÷°´¼ø</option> </select> <button type="button" class="round gray"><span>GO</span></button> 
+      </div> <!-- //Sorting --> 
+      <div class="sect-movie-chart"> 
+       <h4 class="hidden"> ¹«ºñÂ÷Æ® - ¿¹¸ÅÀ²¼ø </h4> 
+       <ol> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.1</strong> <a href="/movies/detail-view/?midx=85624"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85624/85624_320.jpg" alt="¾ğÂ÷Æ¼µå Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-12">12¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> <a class="imax" href="#" title="IMAX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="07">IMAX</a> <a class="forDX" href="#" title="4DX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="4D14">4DX</a> <a class="screenx" href="#" title="SCREENX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="SCX">SCREENX</a> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85624"> <strong class="title">¾ğÂ÷Æ¼µå</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>34.4%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§1~ 3À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">89%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.16 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028855&amp;MOVIE_CD_GROUP=20028855">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.2</strong> <a href="/movies/detail-view/?midx=85603"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85603/85603_320.jpg" alt="±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0 Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> <a class="imax" href="#" title="IMAX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="07">IMAX</a> <a class="forDX" href="#" title="4DX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="4D14">4DX</a> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85603"> <strong class="title">±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>29.9%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§1~ 3À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">96%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.17 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028797&amp;MOVIE_CD_GROUP=20028797">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.3</strong> <a href="/movies/detail-view/?midx=85632"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85632/85632_320.jpg" alt="´õ ¹èÆ®¸Ç Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> <a class="imax" href="#" title="IMAX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="07">IMAX</a> <a class="forDX" href="#" title="4DX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="4D14">4DX</a> <a class="screenx" href="#" title="SCREENX »ó¼¼Á¤º¸ ¹Ù·Î°¡±â" data-regioncode="SCX">SCREENX</a> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85632"> <strong class="title">´õ ¹èÆ®¸Ç</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>18.0%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§1~ 3À§)--> 
+           <div class="egg-gage small"> <span class="sprite_preegg default"></span> <span class="percent">99%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.03.01 <span>°³ºÀ</span> <em class="dday">D-11</em> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028868&amp;MOVIE_CD_GROUP=20028868">¿¹¸Å</a> </span> 
+         </div> </li> 
+       </ol> 
+       <ol> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.4</strong> <a href="/movies/detail-view/?midx=85635"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85635/85635_320.jpg" alt="ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-19">Ã»¼Ò³â °ü¶÷ºÒ°¡</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85635"> <strong class="title">ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>3.2%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="sprite_preegg default"></span> <span class="percent">96%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.23 <span>°³ºÀ</span> <em class="dday">D-5</em> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028871&amp;MOVIE_CD_GROUP=20028871">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.5</strong> <a href="/movies/detail-view/?midx=83739"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000083/83739/83739_320.jpg" alt="³ªÀÏ °­ÀÇ Á×À½ Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-12">12¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=83739"> <strong class="title">³ªÀÏ °­ÀÇ Á×À½</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>2.3%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">89%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.09 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20024619&amp;MOVIE_CD_GROUP=20024619">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.6</strong> <a href="/movies/detail-view/?midx=85627"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85627/85627_320.jpg" alt="¸®ÄÚ¸®½¬ ÇÇÀÚ Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85627"> <strong class="title">¸®ÄÚ¸®½¬ ÇÇÀÚ</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>1.9%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">91%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.16 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028859&amp;MOVIE_CD_GROUP=20028859">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.7</strong> <a href="/movies/detail-view/?midx=85672"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85672/85672_320.jpg" alt="¶ó¶ó·£µå Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-12">12¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85672"> <strong class="title">¶ó¶ó·£µå</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>1.2%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg good"></span> <span class="percent">?</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.22 <span>Àç°³ºÀ</span> <em class="dday">D-4</em> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028987&amp;MOVIE_CD_GROUP=20028987">¿¹¸Å</a> </span> 
+         </div> </li> 
+       </ol> 
+       <div class="chart-ad-bottom" id="chart-ad-bottom"> <iframe src="http://ad.cgv.co.kr/NetInsight/html/CGV/CGV_201401/sub@SponsorBar_980" width="980" height="90" title="" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" name="SponsorBar_980" id="SponsorBar_980"></iframe> 
+       </div> 
+       <ol class="list-more"> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.8</strong> <a href="/movies/detail-view/?midx=83152"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000083/83152/83152_320.jpg" alt="³ªÀÇ ÃĞºÒ Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-all">ÀüÃ¼</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=83152"> <strong class="title">³ªÀÇ ÃĞºÒ</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>1.2%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">91%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.10 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20022848&amp;MOVIE_CD_GROUP=20022848">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.9</strong> <a href="/movies/detail-view/?midx=85561"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85561/85561_320.jpg" alt="ÇØÀû-µµ±úºñ ±ê¹ß Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-12">12¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85561"> <strong class="title">ÇØÀû-µµ±úºñ ±ê¹ß</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.8%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg good"></span> <span class="percent">80%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.01.26 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028688&amp;MOVIE_CD_GROUP=20028688">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.10</strong> <a href="/movies/detail-view/?midx=84949"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84949/84949_320.jpg" alt="½ºÆÄÀÌ´õ¸Ç-³ë ¿şÀÌ È¨ Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-12">12¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=84949"> <strong class="title">½ºÆÄÀÌ´õ¸Ç-³ë ¿şÀÌ È¨</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.8%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">95%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2021.12.15 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028816&amp;MOVIE_CD_GROUP=20027596">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.11</strong> <a href="/movies/detail-view/?midx=85680"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85680/85680_320.jpg" alt="¿¡ÀÌÇÎÅ© ½ºÆä¼È ¹«ºñ-È¥ Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-all">ÀüÃ¼</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85680"> <strong class="title">¿¡ÀÌÇÎÅ© ½ºÆä¼È ¹«ºñ-È¥</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.8%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="sprite_preegg default"></span> <span class="percent">?</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.23 <span>°³ºÀ</span> <em class="dday">D-5</em> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20029015&amp;MOVIE_CD_GROUP=20029013">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.12</strong> <a href="/movies/detail-view/?midx=85291"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85291/85291_320.jpg" alt="Å·¸ŞÀÌÄ¿ Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85291"> <strong class="title">Å·¸ŞÀÌÄ¿</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.8%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">91%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.01.26 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028235&amp;MOVIE_CD_GROUP=20028235">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.13</strong> <a href="/movies/detail-view/?midx=84780"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84780/84780_320.jpg" alt="¾Å2°Ô´õ Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-all">ÀüÃ¼</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=84780"> <strong class="title">¾Å2°Ô´õ</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.5%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">98%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.01.05 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028750&amp;MOVIE_CD_GROUP=20027178">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.14</strong> <a href="/movies/detail-view/?midx=85581"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85581/85581_320.jpg" alt="¾ÈÅ×º§·ë Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85581"> <strong class="title">¾ÈÅ×º§·ë</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.4%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="sprite_preegg default"></span> <span class="percent">99%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.23 <span>°³ºÀ</span> <em class="dday">D-5</em> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028736&amp;MOVIE_CD_GROUP=20028736">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.15</strong> <a href="/movies/detail-view/?midx=85595"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85595/85595_320.jpg" alt="355 Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85595"> <strong class="title">355</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.4%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg good"></span> <span class="percent">82%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.09 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028772&amp;MOVIE_CD_GROUP=20028772">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.16</strong> <a href="/movies/detail-view/?midx=85582"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85582/85582_320.jpg" alt="ÇÇ±× Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-12">12¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> <a class="arthouse" href="#" data-regioncode="MovieCollage">¾ÆÆ®ÇÏ¿ì½º</a> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85582"> <strong class="title">ÇÇ±×</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.4%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="sprite_preegg default"></span> <span class="percent">99%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.23 <span>°³ºÀ</span> <em class="dday">D-5</em> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028970&amp;MOVIE_CD_GROUP=20028737">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.17</strong> <a href="/movies/detail-view/?midx=85633"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85633/85633_320.jpg" alt="±Â º¸½º Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> <a class="arthouse" href="#" data-regioncode="MovieCollage">¾ÆÆ®ÇÏ¿ì½º</a> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85633"> <strong class="title">±Â º¸½º</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.4%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg great"></span> <span class="percent">93%</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.10 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028869&amp;MOVIE_CD_GROUP=20028869">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.18</strong> <a href="/movies/detail-view/?midx=85659"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85659/85659_320.jpg" alt="¸Å¹Ì¼Ò¸® Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-15">15¼¼ ÀÌ»ó</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85659"> <strong class="title">¸Å¹Ì¼Ò¸®</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.3%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="sprite_preegg default"></span> <span class="percent">?</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.24 <span>°³ºÀ</span> <em class="dday">D-6</em> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20029002&amp;MOVIE_CD_GROUP=20028951">¿¹¸Å</a> </span> 
+         </div> </li> 
+        <li> 
+         <div class="box-image"> <strong class="rank">No.19</strong> <a href="/movies/detail-view/?midx=85644"> <span class="thumb-image"> <img src="https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85644/85644_320.jpg" alt="¿ªÀ¸·Î °¡´Â ±æÀ» ¾Ë·ÁÁà Æ÷½ºÅÍ" onerror="errorImage(this)"> <span class="ico-grade grade-all">ÀüÃ¼</span> </span> </a> <span class="screentype"> </span> 
+         </div> 
+         <div class="box-contents"> <a href="/movies/detail-view/?midx=85644"> <strong class="title">¿ªÀ¸·Î °¡´Â ±æÀ» ¾Ë·ÁÁà</strong> </a> 
+          <div class="score"> <strong class="percent">¿¹¸ÅÀ²<span>0.3%</span></strong> <!-- 2020.05.07 °³ºÀÀü ÇÁ¸®¿¡±× ³ëÃâ, °³ºÀÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâº¯°æ (Àû¿ë ¹üÀ§4~ 7À§)--> 
+           <div class="egg-gage small"> <span class="egg good"></span> <span class="percent">?</span> 
+           </div> 
+          </div> <span class="txt-info"> <strong> 2022.02.17 <span>°³ºÀ</span> </strong> </span> <span class="like"> <a class="link-reservation" href="/ticket/?MOVIE_CD=20028908&amp;MOVIE_CD_GROUP=20028908">¿¹¸Å</a> </span> 
+         </div> </li> 
+       </ol> <button class="btn-more-fontbold">´õº¸±â <i class="link-more">´õº¸±â</i></button> 
+       <div class="chart-ad"> 
+        <div class="box-com"> <iframe src="http://ad.cgv.co.kr/NetInsight/html/CGV/CGV_201401/sub@Movie_Chart" width="160" height="300" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" id="Movie_Chart" name="Movie_Chart"></iframe> 
+        </div> 
+        <div class="chart_ad_desc"> 
+         <dl> 
+          <dt> 
+           <img src="http://img.cgv.co.kr/R2014/images/ad/ico_ad1.png" alt="ad"> <span id="ad_txt1"></span> 
+          </dt> 
+          <dd> <span id="ad_txt2"></span> 
+          </dd> 
+         </dl> 
+        </div> 
+       </div> 
+      </div> 
+     </div><!-- .sect-moviechart --> 
+     <script type="text/javascript">
+//<![CDATA[
+    (function ($) {
+        $(function () {
+
+            $('.sect-sorting button').click(function () {
+                var val = $('#order_type').val();
+                if (val) {
+                    location.href = "/movies/?lt=1&ot=" + val;
+                }
+            });
+            //[2015-12-15] ¹«ºñ ÆÄÀÎ´õ ÆäÀÌÁö ÀÎ °æ¿ì Á¤·Ä ¹öÆ° Ã³¸®. : add_mwpark
+            $("#sect-finder button").click(function(){
+                var val = $('#order_type').val();
+                if (val) {
+                    location.href = "/movies/finder.aspx?lt=1&ot=" + val;
+                }
+            });
+
+
+            $('#chk_nowshow').click(function () {
+                if ($("input:checkbox[id='chk_nowshow']").is(":checked")) {
+                    location.href = "/movies/?lt=1&ft=1";
+                }
+                else{
+                    location.href = "/movies/?lt=1&ft=0";
+                }
+            });
+
+            //[2015-12-15] ¹«ºñ ÆÄÀÎ´õ ÆäÀÌÁö ÀÎ °æ¿ì ÇöÀç »ó¿µÀÛ¸¸ º¸±â Ã¼Å© ¹Ú½º Ã³¸®. : add_mwpark
+            $("#chk_finder_nowshow").on("click" , function(){
+                if ($("input:checkbox[id='chk_nowshow']").is(":checked")) {
+                    location.href = "/movies/finder.aspx?lt=1&ft=1";
+                }else{
+                    location.href = "/movies/finder.aspx?lt=1&ft=0";
+                }
+            });
+
+        });
+
+    })(jQuery);
+//]]>
+</script> 
+     <div class="sect-movie-chart"> 
+      <ol id="movie_more_container" style="display:none" class="list-more"> 
+       <li></li> 
+      </ol> 
+     </div> <!--
+<div class="sect-ad-benner"> 
+    <a href="javascript:tmp_alert_phototicket()" title="»õÃ¢"><img src="https://img.cgv.co.kr/R2014/images/main/phototicket_978_223.jpg" alt="¿µÈ­¸¦ ¿µ¿øÈ÷ Ãß¾ïÇÏ´Â ¹æ¹ı. CGV Æ÷ÅäÆ¼ÄÏ" /></a>
+</div>//--> <!-- .sect-ad-benner  --> 
+     <div class="cols-rank" style="display:none"> 
+      <div class="col-rank-trailer"> 
+       <h3>ÀÎ±â Æ®·¹ÀÏ·¯</h3> 
+       <div class="sect-popular-trailer"> 
+        <ul> 
+        </ul> 
+       </div><!-- .sect-popular-trailer --> 
+      </div><!-- .col-rank-trailer --> 
+     </div> <!--
+  2016-
+- Fried : 0 ~69
+- Good :  70 ~ 84
+- Great : 85 ~ 100  
+//--> 
+     <script id="temp_movie" type="text/x-jquery-tmpl">
+    <li>
+        <div class="box-image" >
+            <a href="/movies/detail-view/?midx=${MovieIdx}">
+                <span class="thumb-image">
+                    <img src="${PosterImage.LargeImage}" alt="${Title}" onerror="errorImage(this)"/>
+                    <span class="ico-grade ${MovieGrade.StyleClassName}">${MovieGrade.GradeText}</span>
+                </span>
+            </a>
+            <span class="screentype">
+                {{each MovieKindList}}
+                <a class="${StyleClassName}" href="#" data-regioncode="${RegionCode}">${KindName}</a>
+                {{/each}}
+            </span>
+        </div>
+                    
+        <div class="box-contents">
+            <a href="/movies/detail-view/?midx=${MovieIdx}">
+                <strong class="title">${Title}</strong>
+            </a>
+
+            <div class="score">
+                <strong class="percent">¿¹¸ÅÀ²<span>${TicketRate}%</span></strong>
+                <!--2020.05.07 °³ºÀÀÏ 12½Ã 30ºĞÀü ÇÁ¸®¿¡±×, °³ºÀÀÏ 12½Ã 30ºĞÈÄ °ñµç¿¡±×Áö¼ö ³ëÃâ ±âÁØº¯°æ-->
+                <div class="egg-gage small">
+                    <span class="${StarPoint}"></span>
+                    <span class="percent">${EggPoint}</span>
+                </div>
+            </div>
+
+            <span class="txt-info">
+                <strong>
+                    ${OpenDate}
+                    <span>${OpenText}</span>
+                    {{if D_Day > 0}}
+                        <em class="dday">D-${D_Day}</em>
+                    {{/if}}
+                </strong>
+            </span>
+            <span class="like"> 
+                {{if (IsTicketing)}}<a class="link-reservation" href="http://www.cgv.co.kr/ticket/?MOVIE_CD=${CGVCode}&MOVIE_CD_GROUP=${MovieGroupCode}">¿¹¸Å</a>{{/if}}
+            </span>
+        </div>    
+    </li>
+</script> 
+     <script type="text/javascript">
+//<![CDATA[
+
+    (function ($) {
+        $(function () {
+
+            $(".btn-more-fontbold").click(function () {
+                $(this).remove();
+                app.movie().getList({ listType: '1', orderType: '1', filterType: '0' }, setMovieListBuild);
+            });
+
+            function setMovieListBuild(result) {
+
+                $("#movie_more_container").empty();
+                $("#movie_more_container").show();
+
+                for (var i = 0; i < result.List.length; i++) {
+                    var str = result.List[i].JointCount;
+                    result.List[i].JointCount = str.split(",").join("");
+                }
+
+
+                $("#temp_movie").tmpl(result.List).appendTo("#movie_more_container");
+
+                //$('.point').point();        //ÆòÁ¡ º° Ç¥½Ã
+                $('.btn-like').like();      //wish listµ¿ÀÛ Ã³¸®
+                $('span.screentype a').specialTheater();    //Æ¯º°°ü ¸µÅ©
+            }
+        });
+    })(jQuery);
+//]]>
+</script> <!--/ Contents End --> 
+    </div> <!-- /Contents Area --> 
+   </div> <!-- E Contaniner --> <!-- S Popup --> 
+   <div class="com_pop_wrap"> 
+    <div class="com_pop_fog"></div> 
+   </div> 
+   <div class="pop_wrap"> <!-- S > [ÆË¾÷] Áö¿ø OS ¾÷µ¥ÀÌÆ® À¯µµ--> 
+    <div id="pop_supportOS" class="popup" style="display:none"> 
+     <div class="pop_iexp_wrap" style="position:fixed; left:50%; top:50%; width:600px; margin:-165px 0 0 -300px; z-index:1000;"> 
+      <div class="pi_headline"> 
+       <img src="https://img.cgv.co.kr/images/popup/1606_iexp/pop_iexp_headline2.jpg" alt="CGV È¨ÆäÀÌÁö´Â °í°´´Ô²²¼­ »ç¿ëÁßÀÎ MS Windows XP¿¡¼­ Á¤»óÀûÀÎ ¼­ºñ½º ÀÌ¿ëÀÌ ¾î·Á¿ï ¼ö ÀÖÀ¸¸ç, OS¾÷µ¥ÀÌÆ®¸¦ ±ÇÀåÇÕ´Ï´Ù."> 
+      </div> 
+      <div class="down_app"> 
+       <p><img src="https://img.cgv.co.kr/images/popup/1606_iexp/pop_iexp_downtxt.jpg" alt="OS ¾÷µ¥ÀÌÆ®°¡ ¾î·Á¿î °æ¿ì ¸ğ¹ÙÀÏ¾ÛÀ» ÀÌ¿ëÇÏ¼¼¿ä!!!"></p> <a class="btn" href="https://itunes.apple.com/kr/app/id370441190?mt=8" target="_blank"><img src="https://img.cgv.co.kr/images/popup/1606_iexp/btn_down_ios.jpg" alt="Ios down"></a> <a class="btn" href="https://play.google.com/store/apps/details?id=com.cgv.android.movieapp" target="_blank"><img src="https://img.cgv.co.kr/images/popup/1606_iexp/btn_down_android.jpg" alt="Android down"></a> 
+      </div> <a class="btn_close">´İ±â</a> 
+     </div> 
+    </div> <!-- S > [ÆË¾÷] Áö¿ø ºê¶ó¿ìÀú ´Ù¿î·Îµå À¯µµ--> 
+    <div id="pop_supportBrower" class="popup" style="display:none"> 
+     <div class="pop_iexp_wrap" style="position:fixed; left:50%; top:50%; width:600px; margin:-265px 0 0 -300px; z-index:1000;"> 
+      <div class="pi_headline"> 
+       <img src="https://img.cgv.co.kr/images/popup/1606_iexp/pop_iexp_headline1.jpg" alt="CGV È¨ÆäÀÌÁö´Â Internet Explorer 9ÀÌ»ó¿¡¼­ ÃÖÀûÀÇ ¼­ºñ½º ÀÌ¿ëÀÌ °¡´ÉÇÕ´Ï´Ù. IE9 ÀÌÇÏ ºê¶ó¿ìÀú¿¡¼­ ÀÌ¿ë ½Ã Á¤»óÀûÀÎ ¼­ºñ½º ÀÌ¿ëÀÌ ¾î·Á¿ï ¼ö ÀÖÀ¸¸ç, ºê¶ó¿ìÀú ¾÷±×·¹ÀÌµå ÇÏ½Ã±â¸¦ ±ÇÀåÇÕ´Ï´Ù."> 
+      </div> 
+      <ul class="down_browser"> 
+       <li><a href="https://www.microsoft.com/ko-kr/edge" target="_blank"><img src="https://img.cgv.co.kr/images/popup/1606_iexp/btn_down_ie.jpg" alt="Internet Explorer ´Ù¿î¹Ş±â"></a></li> 
+       <li><a href="https://www.google.com/chrome/browser/desktop/index.html" target="_blank"><img src="https://img.cgv.co.kr/images/popup/1606_iexp/btn_down_chrome.jpg" alt="Chrome ´Ù¿î¹Ş±â"></a></li> 
+      </ul> 
+      <div class="down_app"> 
+       <p><img src="https://img.cgv.co.kr/images/popup/1606_iexp/pop_iexp_downtxt.jpg" alt="OS ¾÷µ¥ÀÌÆ®°¡ ¾î·Á¿î °æ¿ì ¸ğ¹ÙÀÏ¾ÛÀ» ÀÌ¿ëÇÏ¼¼¿ä!"></p> <a class="btn" href="https://itunes.apple.com/kr/app/id370441190?mt=8" target="_blank"><img src="https://img.cgv.co.kr/images/popup/1606_iexp/btn_down_ios.jpg" alt="Ios down"></a> <a class="btn" href="https://play.google.com/store/apps/details?id=com.cgv.android.movieapp " target="_blank"><img src="https://img.cgv.co.kr/images/popup/1606_iexp/btn_down_android.jpg" alt="Android down"></a> 
+      </div> <a class="btn_close">´İ±â</a> 
+     </div> 
+    </div> 
+   </div> <!-- E Popup --> <!-- S ¿¹¸ÅÇÏ±â ¹× TOP Fixed ¹öÆ° --> 
+   <div class="fixedBtn_wrap"> <a href="/ticket/" class="btn_fixedTicketing">¿¹¸ÅÇÏ±â</a> <a href="#none" class="btn_gotoTop"><img src="https://img.cgv.co.kr/R2014/images/common/btn/gotoTop.png" alt="ÃÖ»ó´ÜÀ¸·Î ÀÌµ¿"></a> 
+   </div> <!-- E ¿¹¸ÅÇÏ±â ¹× TOP Fixed ¹öÆ° --> <!-- S Footer --> 
+   <footer> <!-- footer_area (s) --> 
+    <div id="BottomWrapper" class="sect-ad"> <iframe src="https://ad.cgv.co.kr/NetInsight/html/CGV/CGV_201401/sub@Bottom" width="100%" height="240" title="" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" name="Bottom" id="Bottom"></iframe> 
+    </div> 
+    <ul class="policy_list"> 
+     <li><a href="http://corp.cgv.co.kr/company/" target="_blank">È¸»ç¼Ò°³</a></li> 
+     <li><a href="http://corp.cgv.co.kr/company/ir/financial/financial_list.aspx" target="_blank">IR</a></li> 
+     <li><a href="http://corp.cgv.co.kr/company/recruit/step/default.aspx" target="_blank">Ã¤¿ëÁ¤º¸</a></li> 
+     <li><a href="http://corp.cgv.co.kr/company/advertize/ad_Default.aspx" target="_blank">±¤°í/Á¦ÈŞ/ÃâÁ¡¹®ÀÇ</a></li> 
+     <li><a href="http://www.cgv.co.kr/rules/service.aspx">ÀÌ¿ë¾à°ü</a></li> 
+     <li><a href="http://www.cgv.co.kr/rules/organized.aspx">Æí¼º±âÁØ</a></li> 
+     <li><a href="http://www.cgv.co.kr/rules/privacy.aspx"><strong>°³ÀÎÁ¤º¸Ã³¸®¹æÄ§</strong></a></li> 
+     <li><a href="http://www.cgv.co.kr/rules/disclaimer.aspx">¹ıÀû°íÁö</a></li> 
+     <li><a href="http://www.cgv.co.kr/rules/emreject.aspx">ÀÌ¸ŞÀÏÁÖ¼Ò¹«´Ü¼öÁı°ÅºÎ</a></li> 
+     <li><a href="http://corp.cgv.co.kr/company/ethicalManagement/ceoMessage.aspx" target="_blank">À±¸®°æ¿µ</a></li> 
+     <li><a href="/company/cyberAudit.aspx" class="empha-red">»çÀÌ¹ö°¨»ç½Ç</a></li> 
+    </ul> 
+    <article class="company_info_wrap"> 
+     <section class="company_info"> 
+      <address>(04377)¼­¿ïÆ¯º°½Ã ¿ë»ê±¸ ÇÑ°­´ë·Î 23±æ 55, ¾ÆÀÌÆÄÅ©¸ô 6Ãş(ÇÑ°­·Îµ¿)</address> 
+      <dl class="company_info_list"> 
+       <dt>
+        ´ëÇ¥ÀÌ»ç
+       </dt> 
+       <dd>
+        Çã¹ÎÈ¸
+       </dd> 
+       <dt>
+        »ç¾÷ÀÚµî·Ï¹øÈ£
+       </dt> 
+       <dd>
+        104-81-45690
+       </dd> 
+       <dt>
+        Åë½ÅÆÇ¸Å¾÷½Å°í¹øÈ£
+       </dt> 
+       <dd>
+        2017-¼­¿ï¿ë»ê-0662 <a href="#none" onclick="goFtc()" class="btn_goFtc">»ç¾÷ÀÚÁ¤º¸È®ÀÎ</a><a></a>
+       </dd> 
+      </dl> 
+      <dl class="company_info_list"> 
+       <dt>
+        È£½ºÆÃ»ç¾÷ÀÚ
+       </dt> 
+       <dd>
+        CJ¿Ã¸®ºê³×Æ®¿÷½º
+       </dd> 
+       <dt>
+        °³ÀÎÁ¤º¸º¸È£ Ã¥ÀÓÀÚ
+       </dt> 
+       <dd>
+        ½ÉÁØ¹ü
+       </dd> 
+       <dt>
+        ´ëÇ¥ÀÌ¸ŞÀÏ
+       </dt> 
+       <dd>
+        cjcgvmaster@cj.net
+       </dd> 
+       <dt>
+        °í°´¼¾ÅÍ
+       </dt> 
+       <dd>
+        1544-1122
+       </dd> 
+      </dl> 
+      <p class="copyright">? CJ CGV. All Rights Reserved</p> 
+     </section> 
+     <section class="familysite_wrap"> <label for="familysite">CJ±×·ì °è¿­»ç ¹Ù·Î°¡±â</label> <select id="familysite"> <option value="" class="familysiteTitle">°è¿­»ç ¹Ù·Î°¡±â</option> <optgroup label="CJ±×·ì"> <option value="http://www.cj.net/">CJÁÖ½ÄÈ¸»ç</option> </optgroup><optgroup label="½ÄÇ° &amp; ½ÄÇ°¼­ºñ½º"> <option value="https://www.cj.co.kr/kr/index">CJÁ¦ÀÏÁ¦´ç</option> <option value="https://www.cjfoodville.co.kr/main.asp">CJÇªµåºô</option> <option value="http://www.cjfreshway.com/index.jsp">CJÇÁ·¹½Ã¿şÀÌ</option> </optgroup><optgroup label="»ı¸í°øÇĞ"> <option value="https://www.cj.co.kr/kr/about/business/bio">CJÁ¦ÀÏÁ¦´ç BIO»ç¾÷ºÎ¹®</option> <option value="https://www.cj.co.kr/kr/about/business/bio">CJ Feed&amp;Card</option> </optgroup><optgroup label="¹°·ù &amp; ½ÅÀ¯Åë"> <option value="https://www.cjlogistics.com/ko/main">CJ´ëÇÑÅë¿î</option> <option value="http://www.cjenc.co.kr/kr/Default.asp">CJ´ëÇÑÅë¿î °Ç¼³ºÎ¹®</option> <option value="https://www.oliveyoung.co.kr/store/company/brandStory.do">CJ¿Ã¸®ºê¿µ</option> <option value="https://www.cjolivenetworks.co.kr:449/">CJ¿Ã¸®ºê³×Æ®¿÷½º</option> <option value="https://www.cjoshopping.com:9002/index.asp">CJ ENM Ä¿¸Ó½ººÎ¹®</option> </optgroup><optgroup label="¿£ÅÍÅ×ÀÎ¸ÕÆ® &amp; ¹Ìµğ¾î"> <option value="http://www.cjem.net/main/?locale=ko">CJ ENM ¿£ÅÍÅ×ÀÎ¸ÕÆ®ºÎ¹®</option> <option value="http://corp.cgv.co.kr/">CJ CGV</option> </optgroup> </select> <a href="#none" class="btn_familysite" onclick="goFamilySite()">GO</a> 
+     </section> 
+    </article> 
+    <script>
+    //footer ¿µ¿ª LOG
+    $('.policy_list > li > a').on({
+        click: function (e) {
+            gaEventLog('PC_footer', this.text, '');
+        }
+    });
+</script> <!-- footer_area (e) --> 
+    <div class="adFloat" style="display:block"> <iframe src="//ad.cgv.co.kr/NetInsight/html/CGV/CGV_201401/sub@Popicon" width="154" height="182" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" allowtransparency="true" id="ad_float1"></iframe> 
+    </div> 
+    <script type="text/javascript">            OpenAD();</script> <!-- //Float Ad --> 
+   </footer> <!-- E Footer --> <!-- Aside Banner :  --> <!--
+	<div id="ctl00_sect_person_right" class="sect-aside-banner" style="padding:0; margin:0; position:fixed; z-index:1;display:none">
+		<div class="aside-content-top">
+			<div class="aside-content-btm">
+				<a href="/theaters/"><img src="https://img.cgv.co.kr/R2014/images/common/btn/btn_person_theater.gif" alt="CGV THEATER" /></a>
+				<a href="/arthouse/"><img src="https://img.cgv.co.kr/R2014/images/common/btn/btn_person_arthouse.gif" alt="CGV arthouse" /></a>
+				<a href="/theaters/special/"><img src="https://img.cgv.co.kr/R2014/images/common/btn/btn_person_special.gif" alt="CGV SPECIAL" /></a>
+
+				<a href="/user/mycgv/reserve/" class="required-login" data-url="/user/mycgv/reserve/"><img src="https://img.cgv.co.kr/R2014/images/common/btn/btn_person_ticket.gif" alt="CGV TICKET INFO" /></a>
+				<a href="/discount/discountlist.aspx"><img src="https://img.cgv.co.kr/R2014/images/common/btn/btn_person_discount.gif" alt="CGV DISCOUNT INFO" /></a>
+			</div>
+		</div>
+		<div class="btn-top">
+            <a href="#" onclick="window.scrollTo(0,0);return false;"><span>ÃÖ»ó´ÜÀ¸·Î ÀÌµ¿</span></a>
+		</div>
+	</div>
+    //--> <!-- //Aside Banner --> 
+  </div> 
+  <script type="text/template" id="temp_popup_movie_player">
+<div class="popwrap">
+    <div class="sect-layerplayer">
+        <div class="cols-pop-player">
+            <h1 class="title" id="movie_player_popup_title"></h1>
+            <div class="col-pop-player">
+                <div class="warp-pop-player" style="position: relative;">
+                    <iframe id="ifrm_movie_player_popup" name="ifrm_movie_player_popup" src="about:blank" style="width:800px;height:450px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+					
+					<div class="sect-replay" style="display:none" id="pop_player_relation_wrap">
+						<button class="btn-replay movie_player_inner_popup" type="button" data-gallery-idx="0" id="btn_movie_replay">´Ù½Ãº¸±â</button>
+						<!-- ¾ø¾îÁö´Â ¿µ¿ª -->
+						<div class="wrap-relationmovie" id="pop_player_relation_item_wrap">
+							<strong class="title">°ü·Ã¿µ»ó</strong>
+							<ul id="pop_player_relation_movie">
+                                <li></li>
+                            </ul>
+						</div><!-- .wrap-relationmovie -->
+					</div><!-- .sect-replay -->
+					
+                </div><!-- .warp-pop-player -->
+                <div class="descri-trailer">
+                    <strong class="title">¿µ»ó¼³¸í</strong>
+                    <textarea readonly="readonly" id="movie_player_popup_caption"></textarea>
+                </div>
+            </div><!-- .col-player -->
+            <div class="col-pop-playerinfo">
+                <div id="movie_player_popup_movie_info"></div>
+                <div class="sect-trailer">
+                    <strong class="title">½Å±Ô¿µ»ó</strong>
+                    <ul>
+                        
+                    </ul>
+                </div>
+            </div><!-- .col-playerinfo -->
+        </div><!-- .cols-player -->
+        <button type="button" class="btn-close">´İ±â</button>
+    </div>
+</div>
+</script> 
+  <script id="temp_popup_movie_player_movie_info" type="text/x-jquery-tmpl">
+<div class="box-image">
+    <a href="/movies/detail-view/?midx=${MovieIdx}" title="${Title} »ó¼¼º¸±â »õÃ¢">
+        <span class="thumb-image">
+            <img src="${PosterImage.MiddleImage}" alt="${Title} Æ÷½ºÅÍ" />
+            <span class="ico-grade ${MovieGrade.StyleClassName}">${MovieGrade.GradeText}</span>
+        </span>
+    </a>   
+</div>
+<div class="box-contents">
+    <a href="/movies/detail-view/?midx=${MovieIdx}" title="${Title} »ó¼¼º¸±â »õÃ¢">
+        <strong class="title">${Title}</strong>
+    </a>
+    <span class="txt-info" style="margin-bottom:2px;">
+        <em class="genre">${GenreText}</em>
+        <span>
+            <i>${OpenDate}</i>
+            <strong>${OpenText}</strong>
+            {{if D_Day > 0}}
+                <em class="dday">D-${D_Day}</em>
+            {{/if}}
+        </span>
+    </span>
+{{if IsTicketing }}
+    <a class="link-reservation" href="/ticket/?MOVIE_CD=${CGVCode}&MOVIE_CD_GROUP=${CGVCode}">¿¹¸Å</a> 
+{{/if}}
+</div>
+</script> 
+  <script id="temp_popup_movie_player_relation_movie_item" type="text/x-jquery-tmpl">
+<li>
+    <div class="box-image">
+        <a href="#" title="${Title} ¿µ»óº¸±â" class="movie_player_inner_popup" data-gallery-idx="${GalleryIdx}">
+            <span class="thumb-image">
+                <img src="${ImageUrl}" 
+                alt="${Title}_Æ®·¹ÀÏ·¯" />
+                <span class="ico-play">¿µ»óº¸±â</span>
+            </span>
+        </a>
+    </div>
+</li>
+</script> 
+  <script type="text/javascript" src="https://img.cgv.co.kr/R2014//js/system/crypto.js"></script> 
+  <script type="text/javascript">
+    //<![CDATA[
+    function closeBanner(){        
+        $('#cgv_main_ad').remove();     
+        for(var i = 0; i < 2; i++) {
+            window.setTimeout(function(){
+                $(window).resize()                
+            }, 30)
+        }
+    }
+    function showPlayEndEvent() {
+        $('#pop_player_relation_wrap').show();
+        $('#btn_movie_replay').focus();
+    }
+
+    (function ($) {
+        $(function () {
+
+        
+            $('.movie_player_popup').moviePlayer();     //µ¿¿µ»óÇÃ·¹ÀÌ¾î
+
+            //³ë¿øÅ¸¿î
+            $('.special5_pop').on('click', function () {
+                openNowonTown();
+                return false;
+            });           
+            // °Ë»ö auto validate version.
+            $('.btn-go-search').on('click', function () {
+                var $frmSearch = $(this).parent().parent('form');
+                $frmSearch.submit();
+                return false;
+            });
+
+            //¸ŞÀÎ½ºÅµ³×ºñ
+            $('#skipHeader').on('click', function(){
+                var $ctn = $('#contents');
+                $ctn.attr({
+                    tabIndex : -1
+                }).focus();				
+                return false;
+            });
+
+            //ÇöÀç URL ÇØ´çÆÄ¶ó¹ÌÅÍ ±³Ã¼
+            function updateQueryStringParameter(uri, key, value) {
+                var re = new RegExp("([?|&])" + key + "=.*?(&|#|$)", "i");
+                if (uri.match(re)) {
+                    return uri.replace(re, '$1' + key + "=" + value + '$2');
+                } else {
+                    var hash =  '';
+                    var separator = uri.indexOf('?') !== -1 ? "&" : "?";    
+                    if( uri.indexOf('#') !== -1 ){
+                        hash = uri.replace(/.*#/, '#');
+                        uri = uri.replace(/#.*/, '');
+                    }
+                    return uri + separator + key + "=" + value + hash;
+                }
+            }
+            //¸ğ¹ÙÀÏ¹öÀü °¡±â
+            $('.go-mobile').on('click', function() {
+                location.replace(updateQueryStringParameter(location.href, "IsMobile", "N"));
+                return false;
+            });
+        });
+    })(jQuery);
+	
+    function goFamilySite() {
+        var famulySiteURL = $(familysite).val();
+        if (famulySiteURL != "") {
+            var win = window.open(famulySiteURL, 'winFamilySite')
+            win.focus();
+        }
+    }
+    function goFtc() {
+        var ftcUrl = "http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1048145690";
+        window.open(ftcUrl, "bizCommPop", "width=750, height=700, scrollbars=1;");        
+    }    
+    //]]>
+</script> <!-- ¾Û´Ù¿î·Îµå ·¹ÀÌ¾î ÆË¾÷ --> 
+  <script type="text/javascript">
+    //appDownInfoPop();
+</script> 
+  <script language="javascript" type="text/javascript">
+
+    //GA ¿¡³Î¸®½ºÆ® ÀÌº¥Æ®LOG ÇÔ¼ö- 2022.01.12: MYILSAN
+    function gaEventLog(pCategroy, pAction, pLabel) {
+        ga('send', {
+            hitType: 'event', eventCategory: pCategroy, eventAction: pAction, eventLabel: pLabel
+            , hitCallback: function () {
+            }
+            , hitCallbackFail: function () { 
+            }
+        });
+    }
+
+    //201402 SYH GAÃß°¡
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-47126437-1', 'cgv.co.kr'); //ÁöÁÖ»ç
+    ga('create', 'UA-47951671-5', 'cgv.co.kr', { 'name': 'cgvTracker' }); //µğ¸¶ÆÀ
+    ga('create', 'UA-47951671-7', 'cgv.co.kr', { 'name': 'rollup' }); //Ãß°¡
+
+</script> <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NNNFR3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NNNFR3');
+</script> <!-- End Google Tag Manager -->  
+ </body>
+</html>
+2022-02-18 14:23:39,525 DEBUG [main] string.LoggerManager (CGCparseMain.java:20)     - -----------------------------------------------------
+2022-02-18 14:33:20,588 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 1.¾ğÂ÷Æ¼µå
+2022-02-18 14:33:20,591 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 2.±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0
+2022-02-18 14:33:20,591 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 3.´õ ¹èÆ®¸Ç
+2022-02-18 14:33:20,591 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 4.ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó
+2022-02-18 14:33:20,591 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 5.³ªÀÏ °­ÀÇ Á×À½
+2022-02-18 14:33:20,592 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 6.¸®ÄÚ¸®½¬ ÇÇÀÚ
+2022-02-18 14:33:20,592 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 7.¶ó¶ó·£µå
+2022-02-18 14:34:27,061 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 1.¾ğÂ÷Æ¼µå
+2022-02-18 14:34:27,063 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 2.±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0
+2022-02-18 14:34:27,063 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 3.´õ ¹èÆ®¸Ç
+2022-02-18 14:34:27,063 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 4.ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó
+2022-02-18 14:34:27,063 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 5.³ªÀÏ °­ÀÇ Á×À½
+2022-02-18 14:34:27,063 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 6.¸®ÄÚ¸®½¬ ÇÇÀÚ
+2022-02-18 14:34:27,063 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 7.¶ó¶ó·£µå
+2022-02-18 14:34:27,063 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 8.³ªÀÇ ÃĞºÒ
+2022-02-18 14:34:27,065 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 9.ÇØÀû-µµ±úºñ ±ê¹ß
+2022-02-18 14:34:27,065 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 10.½ºÆÄÀÌ´õ¸Ç-³ë ¿şÀÌ È¨
+2022-02-18 14:34:27,065 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 11.¿¡ÀÌÇÎÅ© ½ºÆä¼È ¹«ºñ-È¥
+2022-02-18 14:34:27,065 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 12.Å·¸ŞÀÌÄ¿
+2022-02-18 14:34:27,065 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 13.¾Å2°Ô´õ
+2022-02-18 14:34:27,065 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 14.¾ÈÅ×º§·ë
+2022-02-18 14:34:27,065 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 15.355
+2022-02-18 14:34:27,066 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 16.ÇÇ±×
+2022-02-18 14:34:27,066 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 17.±Â º¸½º
+2022-02-18 14:34:27,066 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 18.¸Å¹Ì¼Ò¸®
+2022-02-18 14:34:27,067 DEBUG [main] string.LoggerManager (CGCparseMain.java:30)     - 19.¿ªÀ¸·Î °¡´Â ±æÀ» ¾Ë·ÁÁà
+2022-02-18 14:41:46,015 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 1.¾ğÂ÷Æ¼µå,¿¹¸ÅÀ²:34.4%
+2022-02-18 14:41:46,016 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 2.±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0,¿¹¸ÅÀ²:29.9%
+2022-02-18 14:41:46,016 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 3.´õ ¹èÆ®¸Ç,¿¹¸ÅÀ²:18.0%
+2022-02-18 14:41:46,017 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 4.ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó,¿¹¸ÅÀ²:3.2%
+2022-02-18 14:41:46,017 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 5.³ªÀÏ °­ÀÇ Á×À½,¿¹¸ÅÀ²:2.3%
+2022-02-18 14:41:46,017 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 6.¸®ÄÚ¸®½¬ ÇÇÀÚ,¿¹¸ÅÀ²:1.9%
+2022-02-18 14:41:46,017 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 7.¶ó¶ó·£µå,¿¹¸ÅÀ²:1.2%
+2022-02-18 14:41:46,017 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 8.³ªÀÇ ÃĞºÒ,¿¹¸ÅÀ²:1.2%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 9.ÇØÀû-µµ±úºñ ±ê¹ß,¿¹¸ÅÀ²:0.8%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 10.½ºÆÄÀÌ´õ¸Ç-³ë ¿şÀÌ È¨,¿¹¸ÅÀ²:0.8%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 11.¿¡ÀÌÇÎÅ© ½ºÆä¼È ¹«ºñ-È¥,¿¹¸ÅÀ²:0.8%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 12.Å·¸ŞÀÌÄ¿,¿¹¸ÅÀ²:0.8%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 13.¾Å2°Ô´õ,¿¹¸ÅÀ²:0.5%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 14.¾ÈÅ×º§·ë,¿¹¸ÅÀ²:0.4%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 15.355,¿¹¸ÅÀ²:0.4%
+2022-02-18 14:41:46,019 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 16.ÇÇ±×,¿¹¸ÅÀ²:0.4%
+2022-02-18 14:41:46,020 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 17.±Â º¸½º,¿¹¸ÅÀ²:0.4%
+2022-02-18 14:41:46,020 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 18.¸Å¹Ì¼Ò¸®,¿¹¸ÅÀ²:0.3%
+2022-02-18 14:41:46,020 DEBUG [main] string.LoggerManager (CGCparseMain.java:37)     - 19.¿ªÀ¸·Î °¡´Â ±æÀ» ¾Ë·ÁÁà,¿¹¸ÅÀ²:0.3%
+2022-02-18 14:44:19,940 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 1.¾ğÂ÷Æ¼µå,¿¹¸ÅÀ²:34.4%, °³ºÀÀÏ:2022.02.16 °³ºÀ
+2022-02-18 14:44:19,942 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 2.±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0,¿¹¸ÅÀ²:29.9%, °³ºÀÀÏ:2022.02.17 °³ºÀ
+2022-02-18 14:44:19,942 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 3.´õ ¹èÆ®¸Ç,¿¹¸ÅÀ²:18.0%, °³ºÀÀÏ:2022.03.01 °³ºÀ D-11
+2022-02-18 14:44:19,942 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 4.ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó,¿¹¸ÅÀ²:3.2%, °³ºÀÀÏ:2022.02.23 °³ºÀ D-5
+2022-02-18 14:44:19,942 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 5.³ªÀÏ °­ÀÇ Á×À½,¿¹¸ÅÀ²:2.3%, °³ºÀÀÏ:2022.02.09 °³ºÀ
+2022-02-18 14:44:19,942 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 6.¸®ÄÚ¸®½¬ ÇÇÀÚ,¿¹¸ÅÀ²:1.9%, °³ºÀÀÏ:2022.02.16 °³ºÀ
+2022-02-18 14:44:19,943 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 7.¶ó¶ó·£µå,¿¹¸ÅÀ²:1.2%, °³ºÀÀÏ:2022.02.22 Àç°³ºÀ D-4
+2022-02-18 14:44:19,943 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 8.³ªÀÇ ÃĞºÒ,¿¹¸ÅÀ²:1.2%, °³ºÀÀÏ:2022.02.10 °³ºÀ
+2022-02-18 14:44:19,944 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 9.ÇØÀû-µµ±úºñ ±ê¹ß,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.01.26 °³ºÀ
+2022-02-18 14:44:19,944 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 10.½ºÆÄÀÌ´õ¸Ç-³ë ¿şÀÌ È¨,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2021.12.15 °³ºÀ
+2022-02-18 14:44:19,944 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 11.¿¡ÀÌÇÎÅ© ½ºÆä¼È ¹«ºñ-È¥,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.02.23 °³ºÀ D-5
+2022-02-18 14:44:19,944 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 12.Å·¸ŞÀÌÄ¿,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.01.26 °³ºÀ
+2022-02-18 14:44:19,945 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 13.¾Å2°Ô´õ,¿¹¸ÅÀ²:0.5%, °³ºÀÀÏ:2022.01.05 °³ºÀ
+2022-02-18 14:44:19,945 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 14.¾ÈÅ×º§·ë,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.23 °³ºÀ D-5
+2022-02-18 14:44:19,945 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 15.355,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.09 °³ºÀ
+2022-02-18 14:44:19,945 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 16.ÇÇ±×,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.23 °³ºÀ D-5
+2022-02-18 14:44:19,946 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 17.±Â º¸½º,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.10 °³ºÀ
+2022-02-18 14:44:19,946 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 18.¸Å¹Ì¼Ò¸®,¿¹¸ÅÀ²:0.3%, °³ºÀÀÏ:2022.02.24 °³ºÀ D-6
+2022-02-18 14:44:19,946 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 19.¿ªÀ¸·Î °¡´Â ±æÀ» ¾Ë·ÁÁà,¿¹¸ÅÀ²:0.3%, °³ºÀÀÏ:2022.02.17 °³ºÀ
+2022-02-18 14:44:48,453 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 1.¾ğÂ÷Æ¼µå,¿¹¸ÅÀ²:34.4%, °³ºÀÀÏ:2022.02.16 
+2022-02-18 14:44:48,457 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 2.±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0,¿¹¸ÅÀ²:29.9%, °³ºÀÀÏ:2022.02.17 
+2022-02-18 14:44:48,457 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 3.´õ ¹èÆ®¸Ç,¿¹¸ÅÀ²:18.0%, °³ºÀÀÏ:2022.03.01  D-11
+2022-02-18 14:44:48,457 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 4.ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó,¿¹¸ÅÀ²:3.2%, °³ºÀÀÏ:2022.02.23  D-5
+2022-02-18 14:44:48,457 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 5.³ªÀÏ °­ÀÇ Á×À½,¿¹¸ÅÀ²:2.3%, °³ºÀÀÏ:2022.02.09 
+2022-02-18 14:44:48,458 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 6.¸®ÄÚ¸®½¬ ÇÇÀÚ,¿¹¸ÅÀ²:1.9%, °³ºÀÀÏ:2022.02.16 
+2022-02-18 14:44:48,458 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 7.¶ó¶ó·£µå,¿¹¸ÅÀ²:1.2%, °³ºÀÀÏ:2022.02.22 Àç D-4
+2022-02-18 14:44:48,458 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 8.³ªÀÇ ÃĞºÒ,¿¹¸ÅÀ²:1.2%, °³ºÀÀÏ:2022.02.10 
+2022-02-18 14:44:48,459 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 9.ÇØÀû-µµ±úºñ ±ê¹ß,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.01.26 
+2022-02-18 14:44:48,460 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 10.½ºÆÄÀÌ´õ¸Ç-³ë ¿şÀÌ È¨,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2021.12.15 
+2022-02-18 14:44:48,460 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 11.¿¡ÀÌÇÎÅ© ½ºÆä¼È ¹«ºñ-È¥,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.02.23  D-5
+2022-02-18 14:44:48,460 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 12.Å·¸ŞÀÌÄ¿,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.01.26 
+2022-02-18 14:44:48,460 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 13.¾Å2°Ô´õ,¿¹¸ÅÀ²:0.5%, °³ºÀÀÏ:2022.01.05 
+2022-02-18 14:44:48,461 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 14.¾ÈÅ×º§·ë,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.23  D-5
+2022-02-18 14:44:48,461 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 15.355,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.09 
+2022-02-18 14:44:48,461 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 16.ÇÇ±×,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.23  D-5
+2022-02-18 14:44:48,462 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 17.±Â º¸½º,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.10 
+2022-02-18 14:44:48,462 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 18.¸Å¹Ì¼Ò¸®,¿¹¸ÅÀ²:0.3%, °³ºÀÀÏ:2022.02.24  D-6
+2022-02-18 14:44:48,462 DEBUG [main] string.LoggerManager (CGCparseMain.java:41)     - 19.¿ªÀ¸·Î °¡´Â ±æÀ» ¾Ë·ÁÁà,¿¹¸ÅÀ²:0.3%, °³ºÀÀÏ:2022.02.17 
+2022-02-18 14:49:59,274 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 1.¾ğÂ÷Æ¼µå,¿¹¸ÅÀ²:34.4%, °³ºÀÀÏ:2022.02.16 , ÀÌ¹ÌÁö:12¼¼ ÀÌ»ó
+2022-02-18 14:49:59,276 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 2.±ØÀåÆÇ ÁÖ¼úÈ¸Àü 0,¿¹¸ÅÀ²:29.9%, °³ºÀÀÏ:2022.02.17 , ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,276 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 3.´õ ¹èÆ®¸Ç,¿¹¸ÅÀ²:18.0%, °³ºÀÀÏ:2022.03.01  D-11, ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,276 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 4.ÀÎ¹ÎÀ» À§ÇØ º¹¹«ÇÏ¶ó,¿¹¸ÅÀ²:3.2%, °³ºÀÀÏ:2022.02.23  D-5, ÀÌ¹ÌÁö:Ã»¼Ò³â °ü¶÷ºÒ°¡
+2022-02-18 14:49:59,277 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 5.³ªÀÏ °­ÀÇ Á×À½,¿¹¸ÅÀ²:2.3%, °³ºÀÀÏ:2022.02.09 , ÀÌ¹ÌÁö:12¼¼ ÀÌ»ó
+2022-02-18 14:49:59,277 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 6.¸®ÄÚ¸®½¬ ÇÇÀÚ,¿¹¸ÅÀ²:1.9%, °³ºÀÀÏ:2022.02.16 , ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,277 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 7.¶ó¶ó·£µå,¿¹¸ÅÀ²:1.2%, °³ºÀÀÏ:2022.02.22 Àç D-4, ÀÌ¹ÌÁö:12¼¼ ÀÌ»ó
+2022-02-18 14:49:59,277 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 8.³ªÀÇ ÃĞºÒ,¿¹¸ÅÀ²:1.2%, °³ºÀÀÏ:2022.02.10 , ÀÌ¹ÌÁö:ÀüÃ¼
+2022-02-18 14:49:59,279 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 9.ÇØÀû-µµ±úºñ ±ê¹ß,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.01.26 , ÀÌ¹ÌÁö:12¼¼ ÀÌ»ó
+2022-02-18 14:49:59,279 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 10.½ºÆÄÀÌ´õ¸Ç-³ë ¿şÀÌ È¨,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2021.12.15 , ÀÌ¹ÌÁö:12¼¼ ÀÌ»ó
+2022-02-18 14:49:59,279 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 11.¿¡ÀÌÇÎÅ© ½ºÆä¼È ¹«ºñ-È¥,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.02.23  D-5, ÀÌ¹ÌÁö:ÀüÃ¼
+2022-02-18 14:49:59,279 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 12.Å·¸ŞÀÌÄ¿,¿¹¸ÅÀ²:0.8%, °³ºÀÀÏ:2022.01.26 , ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,279 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 13.¾Å2°Ô´õ,¿¹¸ÅÀ²:0.5%, °³ºÀÀÏ:2022.01.05 , ÀÌ¹ÌÁö:ÀüÃ¼
+2022-02-18 14:49:59,279 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 14.¾ÈÅ×º§·ë,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.23  D-5, ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,279 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 15.355,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.09 , ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,280 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 16.ÇÇ±×,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.23  D-5, ÀÌ¹ÌÁö:12¼¼ ÀÌ»ó
+2022-02-18 14:49:59,280 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 17.±Â º¸½º,¿¹¸ÅÀ²:0.4%, °³ºÀÀÏ:2022.02.10 , ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,281 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 18.¸Å¹Ì¼Ò¸®,¿¹¸ÅÀ²:0.3%, °³ºÀÀÏ:2022.02.24  D-6, ÀÌ¹ÌÁö:15¼¼ ÀÌ»ó
+2022-02-18 14:49:59,281 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 19.¿ªÀ¸·Î °¡´Â ±æÀ» ¾Ë·ÁÁà,¿¹¸ÅÀ²:0.3%, °³ºÀÀÏ:2022.02.17 , ÀÌ¹ÌÁö:ÀüÃ¼
+2022-02-18 15:00:00,023 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 1.ì–¸ì°¨í‹°ë“œ,ì˜ˆë§¤ìœ¨:34.4%, ê°œë´‰ì¼:2022.02.16 , ì´ë¯¸ì§€:12ì„¸ ì´ìƒ
+2022-02-18 15:00:00,025 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 2.ê·¹ì¥íŒ ì£¼ìˆ íšŒì „ 0,ì˜ˆë§¤ìœ¨:29.9%, ê°œë´‰ì¼:2022.02.17 , ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,025 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 3.ë” ë°°íŠ¸ë§¨,ì˜ˆë§¤ìœ¨:18.0%, ê°œë´‰ì¼:2022.03.01  D-11, ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,025 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 4.ì¸ë¯¼ì„ ìœ„í•´ ë³µë¬´í•˜ë¼,ì˜ˆë§¤ìœ¨:3.2%, ê°œë´‰ì¼:2022.02.23  D-5, ì´ë¯¸ì§€:ì²­ì†Œë…„ ê´€ëŒë¶ˆê°€
+2022-02-18 15:00:00,025 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 5.ë‚˜ì¼ ê°•ì˜ ì£½ìŒ,ì˜ˆë§¤ìœ¨:2.3%, ê°œë´‰ì¼:2022.02.09 , ì´ë¯¸ì§€:12ì„¸ ì´ìƒ
+2022-02-18 15:00:00,025 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 6.ë¦¬ì½”ë¦¬ì‰¬ í”¼ì,ì˜ˆë§¤ìœ¨:1.9%, ê°œë´‰ì¼:2022.02.16 , ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,025 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 7.ë¼ë¼ëœë“œ,ì˜ˆë§¤ìœ¨:1.2%, ê°œë´‰ì¼:2022.02.22 ì¬ D-4, ì´ë¯¸ì§€:12ì„¸ ì´ìƒ
+2022-02-18 15:00:00,026 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 8.ë‚˜ì˜ ì´›ë¶ˆ,ì˜ˆë§¤ìœ¨:1.2%, ê°œë´‰ì¼:2022.02.10 , ì´ë¯¸ì§€:ì „ì²´
+2022-02-18 15:00:00,027 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 9.í•´ì -ë„ê¹¨ë¹„ ê¹ƒë°œ,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.01.26 , ì´ë¯¸ì§€:12ì„¸ ì´ìƒ
+2022-02-18 15:00:00,027 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 10.ìŠ¤íŒŒì´ë”ë§¨-ë…¸ ì›¨ì´ í™ˆ,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2021.12.15 , ì´ë¯¸ì§€:12ì„¸ ì´ìƒ
+2022-02-18 15:00:00,027 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 11.ì—ì´í•‘í¬ ìŠ¤í˜ì…œ ë¬´ë¹„-í˜¼,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.02.23  D-5, ì´ë¯¸ì§€:ì „ì²´
+2022-02-18 15:00:00,027 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 12.í‚¹ë©”ì´ì»¤,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.01.26 , ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,028 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 13.ì”½2ê²Œë”,ì˜ˆë§¤ìœ¨:0.5%, ê°œë´‰ì¼:2022.01.05 , ì´ë¯¸ì§€:ì „ì²´
+2022-02-18 15:00:00,028 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 14.ì•ˆí…Œë²¨ë£¸,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.23  D-5, ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,028 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 15.355,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.09 , ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,028 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 16.í”¼ê·¸,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.23  D-5, ì´ë¯¸ì§€:12ì„¸ ì´ìƒ
+2022-02-18 15:00:00,029 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 17.êµ¿ ë³´ìŠ¤,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.10 , ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,029 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 18.ë§¤ë¯¸ì†Œë¦¬,ì˜ˆë§¤ìœ¨:0.3%, ê°œë´‰ì¼:2022.02.24  D-6, ì´ë¯¸ì§€:15ì„¸ ì´ìƒ
+2022-02-18 15:00:00,029 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 19.ì—­ìœ¼ë¡œ ê°€ëŠ” ê¸¸ì„ ì•Œë ¤ì¤˜,ì˜ˆë§¤ìœ¨:0.3%, ê°œë´‰ì¼:2022.02.17 , ì´ë¯¸ì§€:ì „ì²´
+2022-02-18 15:05:04,737 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 1.ì–¸ì°¨í‹°ë“œ,ì˜ˆë§¤ìœ¨:34.4%, ê°œë´‰ì¼:2022.02.16 , í¬ìŠ¤í„°:12ì„¸ ì´ìƒ
+2022-02-18 15:05:04,739 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 2.ê·¹ì¥íŒ ì£¼ìˆ íšŒì „ 0,ì˜ˆë§¤ìœ¨:29.9%, ê°œë´‰ì¼:2022.02.17 , í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,739 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 3.ë” ë°°íŠ¸ë§¨,ì˜ˆë§¤ìœ¨:18.0%, ê°œë´‰ì¼:2022.03.01  D-11, í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,740 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 4.ì¸ë¯¼ì„ ìœ„í•´ ë³µë¬´í•˜ë¼,ì˜ˆë§¤ìœ¨:3.2%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:ì²­ì†Œë…„ ê´€ëŒë¶ˆê°€
+2022-02-18 15:05:04,740 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 5.ë‚˜ì¼ ê°•ì˜ ì£½ìŒ,ì˜ˆë§¤ìœ¨:2.3%, ê°œë´‰ì¼:2022.02.09 , í¬ìŠ¤í„°:12ì„¸ ì´ìƒ
+2022-02-18 15:05:04,740 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 6.ë¦¬ì½”ë¦¬ì‰¬ í”¼ì,ì˜ˆë§¤ìœ¨:1.9%, ê°œë´‰ì¼:2022.02.16 , í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,740 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 7.ë¼ë¼ëœë“œ,ì˜ˆë§¤ìœ¨:1.2%, ê°œë´‰ì¼:2022.02.22 ì¬ D-4, í¬ìŠ¤í„°:12ì„¸ ì´ìƒ
+2022-02-18 15:05:04,740 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 8.ë‚˜ì˜ ì´›ë¶ˆ,ì˜ˆë§¤ìœ¨:1.2%, ê°œë´‰ì¼:2022.02.10 , í¬ìŠ¤í„°:ì „ì²´
+2022-02-18 15:05:04,742 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 9.í•´ì -ë„ê¹¨ë¹„ ê¹ƒë°œ,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.01.26 , í¬ìŠ¤í„°:12ì„¸ ì´ìƒ
+2022-02-18 15:05:04,742 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 10.ìŠ¤íŒŒì´ë”ë§¨-ë…¸ ì›¨ì´ í™ˆ,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2021.12.15 , í¬ìŠ¤í„°:12ì„¸ ì´ìƒ
+2022-02-18 15:05:04,742 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 11.ì—ì´í•‘í¬ ìŠ¤í˜ì…œ ë¬´ë¹„-í˜¼,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:ì „ì²´
+2022-02-18 15:05:04,742 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 12.í‚¹ë©”ì´ì»¤,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.01.26 , í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,742 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 13.ì”½2ê²Œë”,ì˜ˆë§¤ìœ¨:0.5%, ê°œë´‰ì¼:2022.01.05 , í¬ìŠ¤í„°:ì „ì²´
+2022-02-18 15:05:04,742 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 14.ì•ˆí…Œë²¨ë£¸,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,742 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 15.355,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.09 , í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,743 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 16.í”¼ê·¸,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:12ì„¸ ì´ìƒ
+2022-02-18 15:05:04,743 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 17.êµ¿ ë³´ìŠ¤,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.10 , í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,744 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 18.ë§¤ë¯¸ì†Œë¦¬,ì˜ˆë§¤ìœ¨:0.3%, ê°œë´‰ì¼:2022.02.24  D-6, í¬ìŠ¤í„°:15ì„¸ ì´ìƒ
+2022-02-18 15:05:04,744 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 19.ì—­ìœ¼ë¡œ ê°€ëŠ” ê¸¸ì„ ì•Œë ¤ì¤˜,ì˜ˆë§¤ìœ¨:0.3%, ê°œë´‰ì¼:2022.02.17 , í¬ìŠ¤í„°:ì „ì²´
+2022-02-18 15:08:20,648 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 1.ì–¸ì°¨í‹°ë“œ,ì˜ˆë§¤ìœ¨:34.4%, ê°œë´‰ì¼:2022.02.16 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85624/85624_320.jpg
+2022-02-18 15:08:20,650 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 2.ê·¹ì¥íŒ ì£¼ìˆ íšŒì „ 0,ì˜ˆë§¤ìœ¨:29.9%, ê°œë´‰ì¼:2022.02.17 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85603/85603_320.jpg
+2022-02-18 15:08:20,650 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 3.ë” ë°°íŠ¸ë§¨,ì˜ˆë§¤ìœ¨:18.0%, ê°œë´‰ì¼:2022.03.01  D-11, í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85632/85632_320.jpg
+2022-02-18 15:08:20,650 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 4.ì¸ë¯¼ì„ ìœ„í•´ ë³µë¬´í•˜ë¼,ì˜ˆë§¤ìœ¨:3.2%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85635/85635_320.jpg
+2022-02-18 15:08:20,650 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 5.ë‚˜ì¼ ê°•ì˜ ì£½ìŒ,ì˜ˆë§¤ìœ¨:2.3%, ê°œë´‰ì¼:2022.02.09 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000083/83739/83739_320.jpg
+2022-02-18 15:08:20,650 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 6.ë¦¬ì½”ë¦¬ì‰¬ í”¼ì,ì˜ˆë§¤ìœ¨:1.9%, ê°œë´‰ì¼:2022.02.16 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85627/85627_320.jpg
+2022-02-18 15:08:20,651 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 7.ë¼ë¼ëœë“œ,ì˜ˆë§¤ìœ¨:1.2%, ê°œë´‰ì¼:2022.02.22 ì¬ D-4, í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85672/85672_320.jpg
+2022-02-18 15:08:20,651 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 8.ë‚˜ì˜ ì´›ë¶ˆ,ì˜ˆë§¤ìœ¨:1.2%, ê°œë´‰ì¼:2022.02.10 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000083/83152/83152_320.jpg
+2022-02-18 15:08:20,652 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 9.í•´ì -ë„ê¹¨ë¹„ ê¹ƒë°œ,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.01.26 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85561/85561_320.jpg
+2022-02-18 15:08:20,652 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 10.ìŠ¤íŒŒì´ë”ë§¨-ë…¸ ì›¨ì´ í™ˆ,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2021.12.15 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84949/84949_320.jpg
+2022-02-18 15:08:20,652 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 11.ì—ì´í•‘í¬ ìŠ¤í˜ì…œ ë¬´ë¹„-í˜¼,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85680/85680_320.jpg
+2022-02-18 15:08:20,652 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 12.í‚¹ë©”ì´ì»¤,ì˜ˆë§¤ìœ¨:0.8%, ê°œë´‰ì¼:2022.01.26 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85291/85291_320.jpg
+2022-02-18 15:08:20,653 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 13.ì”½2ê²Œë”,ì˜ˆë§¤ìœ¨:0.5%, ê°œë´‰ì¼:2022.01.05 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84780/84780_320.jpg
+2022-02-18 15:08:20,653 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 14.ì•ˆí…Œë²¨ë£¸,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85581/85581_320.jpg
+2022-02-18 15:08:20,653 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 15.355,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.09 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85595/85595_320.jpg
+2022-02-18 15:08:20,653 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 16.í”¼ê·¸,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.23  D-5, í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85582/85582_320.jpg
+2022-02-18 15:08:20,654 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 17.êµ¿ ë³´ìŠ¤,ì˜ˆë§¤ìœ¨:0.4%, ê°œë´‰ì¼:2022.02.10 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85633/85633_320.jpg
+2022-02-18 15:08:20,655 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 18.ë§¤ë¯¸ì†Œë¦¬,ì˜ˆë§¤ìœ¨:0.3%, ê°œë´‰ì¼:2022.02.24  D-6, í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85659/85659_320.jpg
+2022-02-18 15:08:20,655 DEBUG [main] string.LoggerManager (CGCparseMain.java:43)     - 19.ì—­ìœ¼ë¡œ ê°€ëŠ” ê¸¸ì„ ì•Œë ¤ì¤˜,ì˜ˆë§¤ìœ¨:0.3%, ê°œë´‰ì¼:2022.02.17 , í¬ìŠ¤í„°:https://img.cgv.co.kr/Movie/Thumbnail/Poster/000085/85644/85644_320.jpg
+2022-02-18 15:36:05,715 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:100
+2022-02-18 15:36:05,716 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:14
+2022-02-18 15:36:05,716 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:20
+2022-02-18 15:36:05,716 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:33
+2022-02-18 15:36:05,717 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:14
+2022-02-18 15:36:05,717 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:14
+2022-02-18 15:36:05,717 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:16
+2022-02-18 15:36:05,717 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:16
+2022-02-18 15:36:05,718 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:14
+2022-02-18 15:36:05,718 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:12
+2022-02-18 15:36:05,718 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:14
+2022-02-18 15:36:05,718 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:50
+2022-02-18 15:36:05,718 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:50
+2022-02-18 15:36:05,719 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:11
+2022-02-18 15:36:05,719 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:12
+2022-02-18 15:36:05,719 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:100
+2022-02-18 15:36:05,719 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:25
+2022-02-18 15:36:05,720 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:50
+2022-02-18 15:36:05,720 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:25
+2022-02-18 15:36:05,720 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:14)     - result:16
+2022-02-18 15:36:05,720 DEBUG [main] string.LoggerManager (ExeptionEx01Main.java:17)     - í”„ë¡œê·¸ë¨ ì¢…ë£Œ!
+2022-02-18 15:37:49,460 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:16
+2022-02-18 15:37:49,462 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:16
+2022-02-18 15:37:49,462 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:20
+2022-02-18 15:37:49,462 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:16
+2022-02-18 15:37:49,462 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:20
+2022-02-18 15:37:49,462 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:17)     - / by zero ë°œìƒ
+2022-02-18 15:37:49,463 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:18)     - java.lang.ArithmeticException: / by zero
+2022-02-18 15:37:49,463 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:20)     - í”„ë¡œê·¸ë¨ ì¢…ë£Œ!
+2022-02-18 15:39:24,201 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:50
+2022-02-18 15:39:24,202 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:20
+2022-02-18 15:39:24,202 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:16
+2022-02-18 15:39:24,202 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:12
+2022-02-18 15:39:24,203 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:100
+2022-02-18 15:39:24,203 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:14
+2022-02-18 15:39:24,203 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - result:50
+2022-02-18 15:39:24,203 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:17)     - / by zero ë°œìƒ
+2022-02-18 15:39:24,204 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:18)     - java.lang.ArithmeticException: / by zero
+2022-02-18 15:39:24,204 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:20)     - í”„ë¡œê·¸ë¨ ì¢…ë£Œ!
+2022-02-18 15:39:31,966 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:17)     - / by zero ë°œìƒ
+2022-02-18 15:39:31,967 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:18)     - java.lang.ArithmeticException: / by zero
+2022-02-18 15:39:31,967 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:20)     - í”„ë¡œê·¸ë¨ ì¢…ë£Œ!
+2022-02-18 15:39:45,167 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:14
+2022-02-18 15:39:45,168 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:12
+2022-02-18 15:39:45,169 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:25
+2022-02-18 15:39:45,169 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:100
+2022-02-18 15:39:45,169 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:20
+2022-02-18 15:39:45,169 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:100
+2022-02-18 15:39:45,169 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:17)     - 0/ by zero ë°œìƒ
+2022-02-18 15:39:45,169 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:18)     - java.lang.ArithmeticException: / by zero
+2022-02-18 15:39:45,170 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:20)     - 3 í”„ë¡œê·¸ë¨ ì¢…ë£Œ!
+2022-02-18 15:45:35,045 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:50
+2022-02-18 15:45:37,521 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:14
+2022-02-18 15:45:42,969 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:100
+2022-02-18 15:45:45,080 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:16
+2022-02-18 15:45:46,753 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:12
+2022-02-18 15:45:47,888 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:16
+2022-02-18 15:45:48,889 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:33
+2022-02-18 15:45:49,833 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:12
+2022-02-18 15:45:50,777 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:33
+2022-02-18 15:45:51,616 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:17)     - 0/ by zero ë°œìƒ
+2022-02-18 15:45:51,857 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:18)     - java.lang.ArithmeticException: / by zero
+2022-02-18 15:45:59,393 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:23)     - 3 í”„ë¡œê·¸ë¨ ì¢…ë£Œ!
+2022-02-18 15:46:15,123 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:100
+2022-02-18 15:46:16,008 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:100
+2022-02-18 15:46:21,457 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:20
+2022-02-18 15:46:22,297 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:11
+2022-02-18 15:46:22,873 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:11
+2022-02-18 15:46:23,504 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:14)     - 1 result:25
+2022-02-18 15:46:24,169 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:17)     - 0/ by zero ë°œìƒ
+2022-02-18 15:46:24,369 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:18)     - java.lang.ArithmeticException: / by zero
+2022-02-18 15:46:24,592 DEBUG [main] string.LoggerManager (ExeptionEx02Main.java:23)     - 3 í”„ë¡œê·¸ë¨ ì¢…ë£Œ!

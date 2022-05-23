@@ -1,0 +1,436 @@
+2022-02-22 09:35:33,547 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490133488,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=35,SECOND=33,MILLISECOND=488,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:36:05,187 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490165131,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=36,SECOND=5,MILLISECOND=131,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:36:05,190 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:41)     - cal01:java.util.GregorianCalendar[time=1645490165143,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=36,SECOND=5,MILLISECOND=143,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:44:06,107 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490646051,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=44,SECOND=6,MILLISECOND=51,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:44:06,108 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490646064,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=44,SECOND=6,MILLISECOND=64,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:44:06,109 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:42)     - cel01:495053715
+2022-02-22 09:44:28,592 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490668542,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=44,SECOND=28,MILLISECOND=542,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:44:28,593 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490668551,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=44,SECOND=28,MILLISECOND=551,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:44:28,593 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:42)     - cel01:495053715
+2022-02-22 09:44:28,593 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:1922154895
+2022-02-22 09:44:32,320 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490672269,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=44,SECOND=32,MILLISECOND=269,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:44:32,322 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490672278,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=44,SECOND=32,MILLISECOND=278,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:44:32,322 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:42)     - cel01:495053715
+2022-02-22 09:44:32,322 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel02:1922154895
+2022-02-22 09:46:23,477 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490783429,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=23,MILLISECOND=429,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:23,478 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490783438,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=23,MILLISECOND=438,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:23,478 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:23,478 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:32,795 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490792747,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=32,MILLISECOND=747,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:32,796 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490792756,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=32,MILLISECOND=756,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:32,796 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:32,796 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:33,517 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490793470,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=33,MILLISECOND=470,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:33,518 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490793478,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=33,MILLISECOND=478,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:33,518 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:33,518 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:34,205 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490794157,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=34,MILLISECOND=157,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:34,206 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490794166,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=34,MILLISECOND=166,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:34,206 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:34,206 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:35,073 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490795025,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=35,MILLISECOND=25,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:35,074 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490795034,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=35,MILLISECOND=34,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:35,074 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:35,074 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:36,053 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490796005,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=36,MILLISECOND=5,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:36,054 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490796014,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=36,MILLISECOND=14,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:36,054 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:36,054 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:48,438 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490808390,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=48,MILLISECOND=390,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:48,440 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490808399,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=48,MILLISECOND=399,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:48,440 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:48,440 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:50,266 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490810219,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=50,MILLISECOND=219,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:50,267 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490810227,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=50,MILLISECOND=227,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:50,267 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:50,267 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:50,934 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490810887,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=50,MILLISECOND=887,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:50,936 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490810896,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=50,MILLISECOND=896,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:50,936 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:50,936 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:51,491 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490811443,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=51,MILLISECOND=443,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:51,492 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490811452,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=51,MILLISECOND=452,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:51,492 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:51,492 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:52,498 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490812450,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=52,MILLISECOND=450,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:52,500 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490812459,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=52,MILLISECOND=459,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:52,500 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:52,500 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:54,745 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490814698,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=54,MILLISECOND=698,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:54,747 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490814707,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=54,MILLISECOND=707,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:54,747 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:54,747 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:55,325 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490815276,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=55,MILLISECOND=276,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:55,326 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490815285,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=55,MILLISECOND=285,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:55,326 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:55,326 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:57,974 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490817927,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=57,MILLISECOND=927,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:57,976 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490817936,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=57,MILLISECOND=936,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:57,976 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:57,976 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:58,579 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490818532,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=58,MILLISECOND=532,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:58,581 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490818541,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=58,MILLISECOND=541,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:58,581 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:58,581 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:46:59,191 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490819143,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=59,MILLISECOND=143,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:59,193 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490819152,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=46,SECOND=59,MILLISECOND=152,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:46:59,193 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:46:59,193 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:47:00,183 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490820135,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=47,SECOND=0,MILLISECOND=135,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:47:00,184 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490820144,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=47,SECOND=0,MILLISECOND=144,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:47:00,184 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:47:00,184 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:47:01,218 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490821169,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=47,SECOND=1,MILLISECOND=169,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:47:01,220 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490821178,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=47,SECOND=1,MILLISECOND=178,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:47:01,220 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:47:01,220 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 09:47:02,301 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:39)     - cal01:java.util.GregorianCalendar[time=1645490822253,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=47,SECOND=2,MILLISECOND=253,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:47:02,302 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:40)     - cal01:java.util.GregorianCalendar[time=1645490822262,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=22,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=9,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=53,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=4,AM_PM=0,HOUR=9,HOUR_OF_DAY=9,MINUTE=47,SECOND=2,MILLISECOND=262,ZONE_OFFSET=32400000,DST_OFFSET=0]
+2022-02-22 09:47:02,302 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:43)     - cel01:495053715
+2022-02-22 09:47:02,303 DEBUG [main] comn.LoggerManager (CalendarEx01Main.java:44)     - cel02:1922154895
+2022-02-22 10:05:07,355 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:33)     - 이혜의 년도: 2022
+2022-02-22 10:06:38,462 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:34)     - 이혜의 년도: 2022
+2022-02-22 10:06:38,464 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:35)     - 월(0~11)월: 1
+2022-02-22 10:06:51,203 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:34)     - 이혜의 년도: 2022
+2022-02-22 10:06:51,204 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:35)     - 월(0~11)월: 2
+2022-02-22 10:08:28,031 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:08:28,032 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:08:28,032 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일(1~31): 22
+2022-02-22 10:08:42,003 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:08:42,004 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:08:42,004 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일 : 22
+2022-02-22 10:09:44,390 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:09:44,391 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:09:44,391 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:09:44,392 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:09:44,392 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:44)     - 2022년2월22일
+2022-02-22 10:13:24,246 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:13:24,248 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:13:24,248 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:13:24,248 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:13:24,248 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:44)     - 2022년2월22일
+2022-02-22 10:13:24,248 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:15:03,036 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:15:03,039 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:15:03,039 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:15:03,039 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:15:03,039 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:15:03,039 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:15:03,039 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:16:27,154 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:16:27,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 1
+2022-02-22 10:16:27,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:16:27,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:16:27,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년1월22일
+2022-02-22 10:16:27,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:16:27,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:16:34,594 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:16:34,596 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:16:34,596 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:16:34,596 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:16:34,596 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:16:34,596 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:16:34,596 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:17:49,806 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:17:49,808 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:17:49,808 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:17:49,808 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:17:49,808 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:17:49,808 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:17:49,808 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:17:49,808 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:18:06,792 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:18:06,794 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:18:06,794 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:18:06,794 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:18:06,794 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:18:06,794 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:18:06,794 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:18:06,794 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:18:06,796 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~11):10
+2022-02-22 10:18:35,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:18:35,979 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:18:35,979 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:18:35,979 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:18:35,979 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:18:35,979 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:18:35,979 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:18:35,979 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:18:35,981 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:20:29,746 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:20:29,747 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:20:29,747 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:20:29,747 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:20:29,748 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:20:29,748 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:20:29,748 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:20:29,748 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:20:29,749 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:20:29,749 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):20
+2022-02-22 10:22:02,153 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:22:02,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:22:02,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:22:02,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:22:02,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:22:02,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:22:02,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:22:02,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:22:02,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:22:02,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):22
+2022-02-22 10:22:02,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):2
+2022-02-22 10:22:20,515 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:22:20,517 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:22:20,517 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:22:20,517 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:22:20,518 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:22:20,518 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:22:20,518 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:22:20,518 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:22:20,519 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:22:20,519 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):22
+2022-02-22 10:22:20,519 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):20
+2022-02-22 10:23:44,881 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:23:44,883 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:23:44,883 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:23:44,884 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:23:44,884 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:23:44,884 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:23:44,884 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:23:44,884 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:23:44,885 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:23:44,885 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):23
+2022-02-22 10:23:44,885 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):44
+2022-02-22 10:23:44,885 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:824
+2022-02-22 10:23:50,926 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:23:50,928 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:23:50,928 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:23:50,928 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:23:50,928 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:23:50,928 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:23:50,928 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:23:50,928 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:23:50,929 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:23:50,929 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):23
+2022-02-22 10:23:50,929 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):50
+2022-02-22 10:23:50,930 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:875
+2022-02-22 10:26:13,827 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:26:13,829 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:26:13,829 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:26:13,829 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:26:13,829 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:26:13,829 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:26:13,829 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:26:13,829 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:26:13,830 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:26:13,830 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):26
+2022-02-22 10:26:13,830 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):13
+2022-02-22 10:26:13,830 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:778
+2022-02-22 10:26:13,830 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 10:26:13
+2022-02-22 10:26:54,403 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:26:54,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:26:54,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:26:54,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:26:54,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:26:54,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:26:54,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:26:54,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:26:54,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:26:54,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):26
+2022-02-22 10:26:54,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):54
+2022-02-22 10:26:54,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:355
+2022-02-22 10:26:54,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:26:54
+2022-02-22 10:27:48,742 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:27:48,743 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:27:48,743 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:27:48,743 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:27:48,743 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:27:48,743 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:27:48,743 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:27:48,744 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:27:48,745 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:27:48,745 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):27
+2022-02-22 10:27:48,745 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):48
+2022-02-22 10:27:48,745 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:692
+2022-02-22 10:27:48,745 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일
+10:27:48
+2022-02-22 10:27:53,277 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:27:53,279 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:27:53,280 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:27:53,280 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:27:53,280 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:27:53,280 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:27:53,280 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:27:53,280 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:27:53,281 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:27:53,281 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):27
+2022-02-22 10:27:53,281 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):53
+2022-02-22 10:27:53,281 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:229
+2022-02-22 10:27:53,281 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:27:53
+2022-02-22 10:28:23,737 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:28:23,739 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:28:23,739 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:28:23,739 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:28:23,739 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:28:23,739 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:28:23,739 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:28:23,739 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:28:23,740 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:28:23,741 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):28
+2022-02-22 10:28:23,741 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):23
+2022-02-22 10:28:23,741 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:690
+2022-02-22 10:28:23,741 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ===================================================
+2022-02-22 10:28:23,741 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:28:23
+2022-02-22 10:28:34,231 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:28:34,233 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:28:34,233 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:28:34,233 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:28:34,233 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:28:34,233 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:28:34,233 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:28:34,233 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:28:34,234 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:28:34,234 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):28
+2022-02-22 10:28:34,234 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):34
+2022-02-22 10:28:34,234 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:181
+2022-02-22 10:28:34,234 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - =======================================
+2022-02-22 10:28:34,234 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:28:34
+2022-02-22 10:28:41,349 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:28:41,351 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:28:41,351 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:28:41,351 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:28:41,351 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:28:41,351 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:28:41,351 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:28:41,351 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:28:41,352 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:28:41,352 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):28
+2022-02-22 10:28:41,352 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):41
+2022-02-22 10:28:41,352 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:297
+2022-02-22 10:28:41,352 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ==================================
+2022-02-22 10:28:41,352 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:28:41
+2022-02-22 10:28:47,769 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:28:47,771 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:28:47,771 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:28:47,771 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:28:47,771 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:28:47,771 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:28:47,771 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:28:47,771 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:28:47,772 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:28:47,772 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):28
+2022-02-22 10:28:47,772 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):47
+2022-02-22 10:28:47,772 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:719
+2022-02-22 10:28:47,772 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ==========================
+2022-02-22 10:28:47,772 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:28:47
+2022-02-22 10:28:52,855 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:28:52,857 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:28:52,857 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):28
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):52
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:799
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ========================
+2022-02-22 10:28:52,858 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:28:52
+2022-02-22 10:28:57,975 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:28:57,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:28:57,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:28:57,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:28:57,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:28:57,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:28:57,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:28:57,977 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:28:57,978 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:28:57,978 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):28
+2022-02-22 10:28:57,978 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):57
+2022-02-22 10:28:57,978 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:923
+2022-02-22 10:28:57,978 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - =====================
+2022-02-22 10:28:57,978 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:28:57
+2022-02-22 10:29:03,314 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:29:03,316 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:29:03,317 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):29
+2022-02-22 10:29:03,317 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):3
+2022-02-22 10:29:03,317 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:264
+2022-02-22 10:29:03,317 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ====================
+2022-02-22 10:29:03,317 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:29:3
+2022-02-22 10:29:08,254 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:29:08,256 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:29:08,256 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:29:08,256 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ===============================
+2022-02-22 10:29:08,256 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:29:08,256 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:29:08,256 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:29:08,256 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:29:08,257 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:29:08,257 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):29
+2022-02-22 10:29:08,257 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):8
+2022-02-22 10:29:08,257 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:203
+2022-02-22 10:29:08,257 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ===================
+2022-02-22 10:29:08,257 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:29:8
+2022-02-22 10:29:19,586 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:29:19,588 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:29:19,588 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:29:19,588 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ==================
+2022-02-22 10:29:19,588 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:29:19,588 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:29:19,588 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:29:19,589 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:29:19,589 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:29:19,589 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):29
+2022-02-22 10:29:19,589 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):19
+2022-02-22 10:29:19,589 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:536
+2022-02-22 10:29:19,589 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ===================
+2022-02-22 10:29:19,589 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:29:19
+2022-02-22 10:29:28,154 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:29:28,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:29:28,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:29:28,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ====================
+2022-02-22 10:29:28,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:29:28,155 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:29:28,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:29:28,156 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:29:28,157 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:29:28,157 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):29
+2022-02-22 10:29:28,157 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):28
+2022-02-22 10:29:28,157 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:104
+2022-02-22 10:29:28,157 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ===================
+2022-02-22 10:29:28,157 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:29:28
+2022-02-22 10:29:40,403 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:29:40,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:29:40,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:29:40,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - ====================
+2022-02-22 10:29:40,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:29:40,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:29:40,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:29:40,405 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:29:40,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:29:40,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):29
+2022-02-22 10:29:40,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):40
+2022-02-22 10:29:40,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:355
+2022-02-22 10:29:40,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ====================
+2022-02-22 10:29:40,407 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:29:40
+2022-02-22 10:29:46,862 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:38)     - 이혜의 년도: 2022
+2022-02-22 10:29:46,864 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:39)     - 월(0~11)월: 2
+2022-02-22 10:29:46,864 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:40)     - 일: 22
+2022-02-22 10:29:46,864 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:42)     - =====================
+2022-02-22 10:29:46,864 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:43)     - 2022년2월22일
+2022-02-22 10:29:46,864 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:47)     - 요일:1(일요일)~7(토요일):3
+2022-02-22 10:29:46,864 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:51)     - 0
+2022-02-22 10:29:46,864 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:54)     - 시간(0~11):10
+2022-02-22 10:29:46,866 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:56)     - 시간(0~23):10
+2022-02-22 10:29:46,866 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:59)     - 분(0~59):29
+2022-02-22 10:29:46,866 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:62)     - 초(0~59):46
+2022-02-22 10:29:46,866 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:65)     - 1000분의 1초:816
+2022-02-22 10:29:46,866 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:67)     - ====================
+2022-02-22 10:29:46,866 DEBUG [main] comn.LoggerManager (CalendarEx02Main.java:69)     - 2022년2월22일 10:29:46

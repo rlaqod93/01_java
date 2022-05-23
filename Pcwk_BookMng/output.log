@@ -1,0 +1,9 @@
+2022-03-08 14:38:22,764 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 14:41:19,144 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 14:43:04,149 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 14:43:38,261 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 15:07:09,322 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 15:07:17,313 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 15:17:10,647 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 15:17:51,921 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
+2022-03-08 15:18:23,791 DEBUG [main] cmn.LoggerManager ( BookDao.java:29)     - 파일 읽기 성공
